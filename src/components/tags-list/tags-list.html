@@ -1,0 +1,5 @@
+<div>
+
+  <!-- <select-tag name="amr"></select-tag> -->
+  <select-tag *ngFor="let tag of tags" [item]="tag" [selected]="tag.selected" (onSelected)="tagSelected($event)"></select-tag>
+</div>

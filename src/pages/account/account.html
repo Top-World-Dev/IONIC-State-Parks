@@ -1,0 +1,46 @@
+<ion-header class="post-header">
+  <ion-navbar>
+      <ion-title>My Profile</ion-title>
+      <ion-buttons end>
+          <button class="edit-btn" (click)="editProfile()"  end ion-button>
+            Edit
+          </button>
+        </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+
+
+  <div text-center>
+    <ion-list class="acc-list" no-lines>
+      <h2>Details</h2>
+      <ion-item class="account-details-txt">
+        {{account.Name}}
+      </ion-item>
+      <ion-item class="account-details-txt">
+        {{account.Email}}
+      </ion-item>
+      <hr class="sm-line"/>
+      <ion-item class="password-item">
+        *********
+        <button ion-button clear item-end color="primary" (click)="changePassword()">
+          Change
+        </button>
+      </ion-item>
+      <hr class="pass-line sm-line"/>
+      <ion-item class="my-fashion-profile">
+        <h2 class="bold-txt">My Fashion Profile</h2>
+        <p class="more-txt">Edit your Fashion Profile to control the<br />personalisation on the fashion suggestions<br />you receive.</p>        
+      </ion-item>
+    </ion-list>    
+  </div>
+  <div class="edit-preferences-div">
+    <button ion-button class="edit-preferences" (click)="editPreferences()">Edit Fashion Profile</button>
+  </div>  
+</ion-content>
+<ion-footer>
+  <div class="btn-class">
+      <button ion-button block outline class="request-btn" (click)="request()">Request Account Deletion</button>
+  </div>
+</ion-footer>

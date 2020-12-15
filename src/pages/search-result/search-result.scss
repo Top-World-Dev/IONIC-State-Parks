@@ -1,0 +1,48 @@
+page-search-result {
+  
+    ion-header ion-icon.back-button-icon.icon {
+    color: map-get($colors, dark);
+  }
+  
+  .image {
+    width: 150px;
+    height: 150px;
+  }
+  
+  .tag {
+    display: inline-block;
+    margin-top: 5px;
+    border: solid gray .5px;
+    padding: 5px 10px 5px 10px;
+    border-radius: 15px;
+  }
+  
+  .price-range{
+      margin-top: 15px;
+  }
+
+  .prod-img{
+      height: 170px;
+  }
+
+  .prod-price{
+    margin-top: -2px;
+  }
+
+  .product-name{
+      margin-top: -10px;
+  }
+
+  .product-details{
+      margin-top: -10px;
+  }
+
+  .product-store{
+      margin-top: -10px;
+  }
+  .options{
+      color: black;
+  }
+
+
+}

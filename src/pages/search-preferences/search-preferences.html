@@ -1,0 +1,57 @@
+<ion-header>
+  <ion-navbar>
+    <button class="btns" buttons-left>
+      <img class="logo" src="assets/img/logo.png">
+    </button>
+    <!-- <ion-buttons end>
+      <!-- <button class="dots" end ion-button icon-only (click)="goToBookMarks()">
+        <ion-icon name="ios-bookmark"></ion-icon>
+      </button>
+      <button class="dots" end ion-button icon-only  (click)="toggleMenu()">
+        <ion-icon name="md-more"></ion-icon>
+      </button>
+    </ion-buttons> -->
+  </ion-navbar>
+</ion-header>
+
+
+<ion-content padding>
+
+  <ion-item padding>
+    <ion-input type="text" placeholder="Search for a product .." [(ngModel)]="searchText" (ionChange)="autoComplete()"></ion-input>
+    <button ion-button icon-only clear item-end color="dark" *ngIf="searchText" (click)="clearSearch()">
+      <ion-icon name="close"></ion-icon>
+    </button>
+    <ion-icon *ngIf="!searchText" name="search" item-end></ion-icon>
+  </ion-item>
+
+  <div *ngIf="autoSubProducts.length != 0">
+    <p>Suggested SubProducts</p>
+    <div>
+      <ion-grid>
+        <ion-row>
+          <ion-col col-4 *ngFor="let subproduct of autoSubProducts">
+            <div class="container" (click)="confirmSearchPage(subproduct)">
+              <img class="img img-rounded-border" [src]="subproduct.ImageUrl">
+              <div class="bottom-left">{{subproduct.Name}}</div>
+            </div>
+          </ion-col>
+        </ion-row>
+      </ion-grid>
+    </div>
+  </div>
+  <p text-center >Saved Searches</p>
+  <div>
+    <ion-grid>
+      <ion-row>
+        <ion-col col-4 *ngFor="let search of searches">
+          <div class="container" (click)="searchProductposts(search)">
+            <img class="img" [src]="search.SubProductTags[0]?.SubProduct.ImageUrl">
+            <div class="bottom-left">{{search.SubProductTags[0]?.SubProduct.Name}}</div>
+          </div>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+  </div>
+
+</ion-content>

@@ -1,0 +1,53 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title></ion-title>
+  </ion-navbar>
+</ion-header>
+<!-- <div *ngIf="!quizPending"  text-center class="suggestion-container" id="suggestion_container">
+    <button ion-button color="light" fill="solid" outline round class="btn-suggestion">Suggestion Feed</button>  
+</div> -->
+<!-- <div *ngIf="!quizPending" class="message" id="profile_message" type="overlay">
+  <div text-center><img class="icon-a-c" src="assets/img/icon_pg_3.png" /></div>
+  <h1>Success!</h1>
+  <p>Awesome, your fashion profile<br />is all setup and your first fashion<br /> recommendations are ready for<br/>you to view!</p>
+  <button ion-button color="light" fill="solid" outline round class="btn-okay" (click)="Okay()">Okay</button>
+</div> -->
+<ion-content class="ion-content-below-my-title">
+  <div class="toppart">
+    <div class="topdiv">
+      <img src="assets/img/backarrow.png" class="topbackbutton" (click)="back()" />
+      <h1 class="topheading">Camping Ground Details</h1>
+      
+    </div>
+    
+  </div>
+  <div class="midbuttons" *ngIf="LoadingView==true">
+    <!-- {{parksData[0].imageURL}} -->
+      
+        <div class="slides-div">
+          <ion-slides
+            pager="true"
+            (ionSlideNextStart)="slideChanged()"
+            (ionSlidePrevStart)="slideChanged()"
+            (ionSlidePrevEnd)="slideChanged()">
+            <ion-slide *ngFor="let image of park.campground_images">
+              <img class="slide-image" [img-preloader]="image.url" />
+            </ion-slide>
+          </ion-slides>
+        </div>
+        <div class="parktitlediv">
+          <div style="width: 100%; display: block;">
+          <h2 class="parktitle">{{park.title}}</h2>
+          <h3 style="color:gray;">${{park.campground_low_rate}}-${{park.campground_high_rate}}/Night</h3>
+          </div>
+          <div style="width: 100%; display: block;">
+          <h4 class="eventaddress">{{cabinpark.park_addresses[0]["street"]}} in {{cabinpark.park_addresses[0]["city"]}},{{cabinpark.park_addresses[0]["state"]}}</h4>
+          <button ion-button class="bottom-button-green" (click)="openBrowser(park.campground_reservation_url)">
+            Reserve
+          </button>
+          <div class="parksummary" innerHTML="{{park.campground_description}}"></div> 
+          
+          </div>
+        </div>
+      </div>
+</ion-content>

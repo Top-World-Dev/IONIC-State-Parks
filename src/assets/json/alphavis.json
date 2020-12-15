@@ -1,0 +1,3664 @@
+{
+	"parks": 
+	[
+	
+		{
+			"title": "Bicentennial Capitol Mall State Park",
+			"url_title": "bicentennial-mall",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0018"
+				}
+			],
+			"park_name": "Bicentennial Capitol Mall &lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "Bicentennial Mall",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/67/bicentennial_spring__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/bicentennial-mall.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Visitor Center",
+					"street": "600 James Robertson Parkway",
+					"additional": "",
+					"city": "Nashville",
+					"state": "TN",
+					"zip": "37243",
+					"phone": "615-741-5280",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.1692,
+					"lng": -86.7859
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-COVID-19-Updates-day-use",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open. Park hours may vary from normal operations in response to COVID-19. Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. </p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Big Cypress Tree State Park",
+			"url_title": "big-cypress-tree",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0019"
+				},
+				 
+				{
+					"id": "TSP-0314"
+				}
+			],
+			"park_name": "Big Cypress Tree &lt;span&gt;state park&lt;\/span&gt;",
+			"short_name": "Big Cypress Tree ",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/68/big-cypress-tree_hero_23-2-2015__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/big-cypress-tree.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office",
+					"street": "295 Big Cypress Road",
+					"additional": "",
+					"city": "Greenfield",
+					"state": "TN",
+					"zip": "38230",
+					"phone": "731-235-2700",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.1936,
+					"lng": -88.8901
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-COVID-19-Updates-day-use",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open. Park hours may vary from normal operations in response to COVID-19. Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. </p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Big Hill Pond State Park",
+			"url_title": "big-hill-pond",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0020"
+				},
+				 
+				{
+					"id": "TSP-0021"
+				}
+			],
+			"park_name": "Big Hill Pond &lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "Big Hill Pond",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/69/lake-summer-hero-rasnic-2020__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/big-hill-pond.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Visitor Center",
+					"street": "1435 John Howell Road",
+					"additional": "",
+					"city": "Pocahontas",
+					"state": "TN",
+					"zip": "38061",
+					"phone": "731-645-7967",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 35.0635,
+					"lng": -88.7198
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Big Ridge State Park",
+			"url_title": "big-ridge",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0022"
+				}
+			],
+			"park_name": "Big Ridge &lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "Big Ridge",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/70/big-ridge-rec-hall-patio__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/big-ridge.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Visitor Center",
+					"street": "1015 Big Ridge Park Road",
+					"additional": "",
+					"city": "Maynardville",
+					"state": "TN",
+					"zip": "37807",
+					"phone": "865-992-5523",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.2422,
+					"lng": -83.9305
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Bledsoe Creek State Park",
+			"url_title": "bledsoe-creek",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0030"
+				}
+			],
+			"park_name": "Bledsoe Creek &lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "Bledsoe Creek",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/73/bledsoe-creek_hero-sunset__app.png",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/bledsoe-creek.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Visitor Center",
+					"street": "400 Zieglers Fort Road",
+					"additional": "",
+					"city": "Gallatin",
+					"state": "TN",
+					"zip": "37066",
+					"phone": "615-452-3706",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.3784,
+					"lng": -86.3606
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Booker T. Washington State Park",
+			"url_title": "booker-t-washington",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0032"
+				}
+			],
+			"park_name": "Booker T. Washington &lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "Booker T. Washington",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/74/booker-t-washington-hero__app.png",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/booker-t-washington.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Visitor Center",
+					"street": "5801 Champion Road",
+					"additional": "",
+					"city": "Chattanooga",
+					"state": "TN",
+					"zip": "37416",
+					"phone": "423-894-4955",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 35.1104,
+					"lng": -85.1713
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-COVID-19-Updates-day-use",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open. Park hours may vary from normal operations in response to COVID-19. Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. </p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Burgess Falls State Park",
+			"url_title": "burgess-falls",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0036"
+				},
+				 
+				{
+					"id": "TSP-0037"
+				}
+			],
+			"park_name": "Burgess Falls &lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "Burgess Falls",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/75/burgess-falls_summer__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/burgess-falls.jpg",
+			"addresses": [
+				
+				{
+					"label": "Burgess Falls Park Office",
+					"street": "4000 Burgess Falls Drive",
+					"additional": "",
+					"city": "Sparta",
+					"state": "TN",
+					"zip": "38583",
+					"phone": "931-432-5312",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Window Cliffs Parking Lot",
+					"street": "8400 Old Cane Creek Rd",
+					"additional": "",
+					"city": "Baxter",
+					"state": "TN",
+					"zip": "38544",
+					"phone": "",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.044,
+					"lng": -85.595
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "PUBLIC NOTICE: Window Cliffs Closed",
+					"url_title": "public-notice-window-cliffs-closure",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>PUBLIC NOTICE: Due to heavy rainfall and thunderstorms, Window Cliffs is closed today (Friday, December 4th) for public safety. We will remove this notice when we re-open. </p>"
+				},
+				
+				{
+					"title": "Swimming is not permitted at Burgess Falls State Natural Area",
+					"url_title": "swimming-is-not-permitted-at-burgess-falls-state-natural-area",
+					"alert_type": "danger",
+					"closure_dates": "null",
+					"alert_content": "<p>Public Notice: Swimming is not allowed at Burgess Falls State Park and Natural Area. </p>"
+				},
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-COVID-19-Updates-day-use",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open. Park hours may vary from normal operations in response to COVID-19. Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. </p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Cedars of Lebanon State Park",
+			"url_title": "cedars-of-lebanon",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0048"
+				},
+				 
+				{
+					"id": "TSP-0049"
+				}
+			],
+			"park_name": "Cedars of Lebanon &lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "Cedars of Lebanon",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/76/cedars_hero-lodge3__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/cedars-of-lebanon.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Visitor Center",
+					"street": "328 Cedar Forest Rd.",
+					"additional": "",
+					"city": "Lebanon",
+					"state": "TN",
+					"zip": "37090",
+					"phone": "615-443-2769",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.0916,
+					"lng": -86.3309
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Chickasaw State Park",
+			"url_title": "chickasaw",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0055"
+				}
+			],
+			"park_name": "Chickasaw &lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "Chickasaw",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/77/duplessis_chickasaw_bridge-2018-cred__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/chickasaw.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Visitor Center",
+					"street": "20 Cabin Lane",
+					"additional": "",
+					"city": "Henderson",
+					"state": "TN",
+					"zip": "38340",
+					"phone": "731-989-5141",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 35.3931,
+					"lng": -88.7725
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "Chickasaw Cabin Renovations",
+					"url_title": "chickasaw-cabin-renovations",
+					"alert_type": "warning",
+					"closure_dates": "null",
+					"alert_content": "<p>Public Notice Posted Feb. 8, 2019:</p><p>Cabins at Chickasaw State Park are scheduled for upcoming reservations and will be closed as noted below:<br /><br />-Cabins 1-7 will be closed December 1, 2019 until September 30, 2020 for renovations.<br />-Cabins 8-13 will remain open during this time period.</p><p>Please note that these dates are tentative and subject to change. We will not be taking reservations online during this period; however, guests may call the park office to check on possible availability. We apologize for any inconvenience.</p>"
+				},
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Cordell Hull Birthplace State Park",
+			"url_title": "cordell-hull-birthplace",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0065"
+				}
+			],
+			"park_name": "Cordell Hull Birthplace &lt;span&gt;State Park&lt;\/span&gt; ",
+			"short_name": "Cordell Hull BP",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/78/cordell-hull-birthplace-2__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/cordell-hull-birthplace.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Museum",
+					"street": "1300 Cordell Hull Memorial Drive",
+					"additional": "",
+					"city": "Byrdstown",
+					"state": "TN",
+					"zip": "38549",
+					"phone": "931-864-3247",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.5823,
+					"lng": -85.184
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-COVID-19-Updates-day-use",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open. Park hours may vary from normal operations in response to COVID-19. Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. </p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Cove Lake State Park",
+			"url_title": "cove-lake",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0066"
+				}
+			],
+			"park_name": "Cove Lake &lt;span&gt;State Park&lt;\/span&gt; ",
+			"short_name": "Cove Lake",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/79/cove_lake_spring_hero__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/cove-lake.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office",
+					"street": "110 Cove Lake Lane",
+					"additional": "",
+					"city": "Caryville",
+					"state": "TN",
+					"zip": "37714",
+					"phone": "423-566-9701",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.3092,
+					"lng": -84.2111
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Cumberland Mountain State Park",
+			"url_title": "cumberland-mountain",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0069"
+				},
+				 
+				{
+					"id": "TSP-0070"
+				}
+			],
+			"park_name": "Cumberland Mountain &lt;span&gt;State Park&lt;\/span&gt; ",
+			"short_name": "Cumberland Mountain",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/80/cumberland-mtn__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/cumberland-mountain.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office",
+					"street": "24 Office Dr.",
+					"additional": "",
+					"city": "Crossville",
+					"state": "TN",
+					"zip": "38555",
+					"phone": "931-484-6138",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Golf Course Clubhouse",
+					"street": "407 Wild Plum Lane",
+					"additional": "",
+					"city": "Crossville",
+					"state": "TN",
+					"zip": "38572",
+					"phone": "931-707-1640",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Homestead Harvest Restaurant",
+					"street": "24 Office Dr.",
+					"additional": "",
+					"city": "Crossville",
+					"state": "TN",
+					"zip": "38555",
+					"phone": "931-484-7186",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 35.9006,
+					"lng": -84.9972
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Cumberland Trail State Park",
+			"url_title": "cumberland-trail",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0071"
+				},
+				 
+				{
+					"id": "TSP-0072"
+				},
+				 
+				{
+					"id": "TSP-0073"
+				},
+				 
+				{
+					"id": "TSP-0074"
+				},
+				 
+				{
+					"id": "TSP-0075"
+				},
+				 
+				{
+					"id": "TSP-0076"
+				},
+				 
+				{
+					"id": "TSP-0077"
+				}
+			],
+			"park_name": "Justin P. Wilson&lt;span&gt;Cumberland Trail&lt;\/span&gt; &lt;span&gt;State Scenic Trail State Park&lt;\/span&gt;",
+			"short_name": "Cumberland Trail",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/81/cumberland-trail-fall__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/cumberland-trail.jpg",
+			"addresses": [
+				
+				{
+					"label": "Main Office / Mailing Address",
+					"street": "220 Park Road",
+					"additional": "",
+					"city": "Caryville",
+					"state": "TN",
+					"zip": "37714",
+					"phone": "423-566-2229",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Head of Sequatchie",
+					"street": "270 Glyph Parkway",
+					"additional": "",
+					"city": "Pikeville",
+					"state": "TN",
+					"zip": "37367",
+					"phone": "423-566-2229",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.312,
+					"lng": -84.2134
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "Cumberland Trail Trail Closures Updated 11-30-2020",
+					"url_title": "cumberland-trail-trail-closures",
+					"alert_type": "warning",
+					"closure_dates": "null",
+					"alert_content": "<p><strong>11-30-2020: <em>**Closure** </em>| Frozen Head State Park Boundary North to Arch Mountain: </strong>Downfall has made the trail impassable at several points. Navigating around the obstructions is dangerous. Map of Closure: <a href=\"https://ctsst.maps.arcgis.com/apps/webappviewer/index.html?id=ae4ff34c7bc742e7a6c6e5b738f65c2c\" target=\"_blank\">https://ctsst.maps.arcgis.com/apps/webappviewer/index.html?id=ae4ff34c7bc742e7a6c6e5b738f65c2c</a></p><p>Connects to Lawson Mountain&#8230;which has the following warning. </p><p><strong>11-30-2020: The Lawson Mountain Section the CT is in poor condition. </strong>Be prepared to use GPS navigation. A form of GPS navigation is available on the Cumberland Trail Interactive Map Here: <a href=\"https://ctsst.maps.arcgis.com/apps/webappviewer/index.html?id=ae4ff34c7bc742e7a6c6e5b738f65c2c  \" target=\"_blank\">https://ctsst.maps.arcgis.com/apps/webappviewer/index.html?id=ae4ff34c7bc742e7a6c6e5b738f65c2c  </a></p><p>Please exercise extreme caution, plan your trip, and do not continue (& turn back) if you lose site of the trail or blazes.</p><p><strong>11-30-2020: Tank Springs Shelter (No Longer Exists) </strong>| A fire has destroyed the Tank Springs Shelter in Campbell County roughly 3 miles south of the Tank Springs Trailhead in LaFollette towards the Devil's Racetrack in Caryville - a roughly 11-mile stretch. </p><p><strong>9-15-2020</strong><b><strong>:</strong> </b><strong>Nemo Bridge to Break-A-Way Bluff </strong>| This segment of trail has continuous maintenance issues due to its topography - staff are working in the area but blowdowns & other issues are common even after recent cleanings. Please exercise extreme caution, plan your trip, and do not continue (please turn back) if you lose site of the trail or blazes. If you see issues report them at cumberland.trail@tn.gov or 423-566-2229 (M-F 8am - 4:30pm ET).</p><p><strong>08-25-2020:</strong> <strong>The Suck Creek Bridge off Hwy 27</strong> (near Mushroom Rock) in Prentice Cooper State Forest is washed out. Staff is looking at possible options with an indefinite timetable for repair at this time.&rdquo;</p><p><strong>Updated October 25, 2019: Trail Segment Closures</strong><br />Trail South of the Devil's Breakfast Table Trailhead - extending to the Daddy's Creek Trailhead and RMA - remains incomplete and closed. The trail can be picked up again, to the south, at the Daddy's Creek Trailhead.</p><p>For Immediate Updates: Visit our Interactive Map at <a href=\"http://www.cumberlandtrail.guide\">www.cumberlandtrail.guide</a> - follow our Facebook page or call our main office at 423-566-2229 from 8:00 AM to 4:30 PM ET.</p>"
+				},
+				
+				{
+					"title": "CT Need to Know",
+					"url_title": "ct-need-to-know",
+					"alert_type": "null",
+					"closure_dates": "null",
+					"alert_content": "<p>Please exercise extreme caution while enjoying creek areas, including waterfalls. Water levels may change suddenly, running high and moving fast in many areas and posing increased safety risk. Maps and hiking planning info are available at <a href=\"http://www.cumberlandtrail.guide\">www.cumberlandtrail.guide</a>.</p><p>All Counties: All caves on lands managed by the Cumberland Trail State Scenic Trail are closed to the public at this time due to White Nose Syndrome.</p>"
+				},
+				
+				{
+					"title": "North Chickamauga SNA Hours 2020",
+					"url_title": "north-chickamauga-sna-hours-2020",
+					"alert_type": "warning",
+					"closure_dates": "null",
+					"alert_content": "<ul><li><strong>Weekdays:</strong> 8 a.m. - 7 p.m. </li><li><strong>Weekends:</strong> 9 a.m. - 7 p.m.</li></ul>"
+				},
+				
+				{
+					"title": "Head of Sequatchie Hours of Operation",
+					"url_title": "head-of-sequatchie-hours-of-operation",
+					"alert_type": "warning",
+					"closure_dates": "null",
+					"alert_content": "<p><strong>06-01-2020: </strong>The Head of Sequatchie is open Saturdays and Sundays 9 a.m. - 5 p.m. CDT.<br /><a href=\"http://www.friendsofthecumberlandtrail.org/directions-to-head-of-sequatchie-management-area\">Directions/Details</a> or call 423-566-2229 (M-F 8am to 4:30pm ET).  </p>"
+				},
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-COVID-19-Updates-day-use",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open. Park hours may vary from normal operations in response to COVID-19. Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. </p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Cummins Falls State Park",
+			"url_title": "cummins-falls",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0078"
+				}
+			],
+			"park_name": "Cummins Falls State Park",
+			"short_name": "Cummins Falls",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/82/cfsp4__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/cummins-falls.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Staff",
+					"street": "390 Cummins Falls Lane",
+					"additional": "",
+					"city": "Cookeville",
+					"state": "TN",
+					"zip": "38501",
+					"phone": "931-520-6691",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.2535,
+					"lng": -85.566
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "Cummins Falls Gorge Water Levels",
+					"url_title": "cummins-falls-gorge-water-levels",
+					"alert_type": "warning",
+					"closure_dates": "null",
+					"alert_content": "<p>Gorge Water Levels Ongoing Alert: Changing water levels in the gorge can result in the sudden closure of the trail access to the base of the waterfall. Rain can drastically impact the volume of water coming over Cummins Falls, making the path through the gorge dangerous for visitors. We encourage everyone to check the weather forecast in the days leading up to a visit to the park. Even if it isn't raining at the park, rain upstream can cause water levels to rise in a matter of minutes. Please remain aware of your surroundings during your visit and exit the base of the falls if you notice the water volume increasing.</p><p>For the most up-to-date information, please check the <a href=\"https://www.facebook.com/CumminsFalls/\">Cummins Falls State Park Facebook page</a>. On-site park staff will post photos and trail closure alerts on that page. </p>"
+				},
+				
+				{
+					"title": "Cummins Falls Reopens with New Gorge Access Permit",
+					"url_title": "cummins-falls-reopens-with-new-gorge-access-permit",
+					"alert_type": "partial_closure",
+					"closure_dates": "null",
+					"alert_content": "<p>UPDATE: Cummins Falls State Park has reopened with a new online Gorge Access Permit system. Permits will be required for anyone wishing to decent into the gorge or visit the base of the waterfall. <a href=\"https://tnstateparks.com/blog/cummins-falls-reopening-with-new-gorge-access-permit\"><strong>LEARN MORE</strong></a></p>"
+				}
+			]
+		},
+	
+		{
+			"title": "David Crockett Birthplace State Park",
+			"url_title": "david-crockett-birthplace",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0080"
+				}
+			],
+			"park_name": "David Crockett Birthplace &lt;span&gt;State Park&lt;\/span&gt; ",
+			"short_name": "David Crockett BP",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/84/dcbp_cabin-raising7_hero__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/david-crockett-birthplace.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Visitor Center",
+					"street": "1245 Davy Crockett Park Road ",
+					"additional": "",
+					"city": "Limestone",
+					"state": "TN",
+					"zip": "37681",
+					"phone": "423-257-2167",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.2068,
+					"lng": -82.6582
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "David Crockett State Park",
+			"url_title": "david-crockett",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0079"
+				}
+			],
+			"park_name": "David Crockett &lt;span&gt;State Park&lt;\/span&gt; ",
+			"short_name": "David Crockett",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/83/jbass_crockett_falls1__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/david-crockett.jpg",
+			"addresses": [
+				
+				{
+					"label": "Visitor Center / GPS Directions",
+					"street": "1400 West Gaines",
+					"additional": "",
+					"city": "Lawrenceburg",
+					"state": "TN",
+					"zip": "38464",
+					"phone": "931-762-9408",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Mailing Address",
+					"street": "23 Crockett Park Rd.",
+					"additional": "",
+					"city": "Lawrenceburg",
+					"state": "TN",
+					"zip": "38464",
+					"phone": "931-762-9408",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Crockett's Mill",
+					"street": "1400 West Gaines",
+					"additional": "",
+					"city": "Lawrenceburg",
+					"state": "TN",
+					"zip": "38464",
+					"phone": "931-762-9541",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 35.2656,
+					"lng": -87.3571
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Division of Natural Areas",
+			"url_title": "division-of-natural-areas",
+			"TSP_UID": [
+				
+			],
+			"park_name": "Division of &lt;span&gt;Natural Areas&lt;\/span&gt;",
+			"short_name": null,
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/5009/virgin-falls-hike-welchs-point-overlook__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/division-of-natural-areas.jpg",
+			"addresses": [
+				
+				{
+					"label": "Nashville Main Office",
+					"street": "312 Rosa L Parks Ave, 2nd Floor",
+					"additional": "William R. Snodgrass, TN Tower",
+					"city": "Nashville",
+					"state": "TN",
+					"zip": "37243",
+					"phone": "888-891-8332",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+			],
+			"park_alerts":[
+				
+			]
+		},
+	
+		{
+			"title": "Dunbar Cave State Park",
+			"url_title": "dunbar-cave",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0093"
+				}
+			],
+			"park_name": "Dunbar Cave &lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "Dunbar Cave",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/85/dunbar-cave_hero_web5__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/dunbar-cave.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Visitor Center",
+					"street": "401 Old Dunbar Cave Road",
+					"additional": "",
+					"city": "Clarksville",
+					"state": "TN",
+					"zip": "37043",
+					"phone": "931-648-5526",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.5503,
+					"lng": -87.3057
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "Dunbar Cave Road Closure Begins Sept. 1",
+					"url_title": "dunbar-cave-road-closure-begins-sept-1",
+					"alert_type": "warning",
+					"closure_dates": "null",
+					"alert_content": "<p>The city of Clarksville will close Dunbar Cave Road just in front of the park, in order to replace a badly damaged bridge. This closure is expected to last 45 days.</p><p>This will result in the park being inaccessible from the direction of Exit 8/Dunbar Cave Rd. coming from I-24.</p><p><strong>From I-24</strong>. Take Exit 4, and follow Wilma Rudolph Boulevard west to Dunbar Cave Road. Turn left on Dunbar Cave Road.</p><p><strong>From downtown Clarksville:</strong> Take Wilma Rudolph Boulevard and turn right on Dunbar Cave Road.</p>"
+				},
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-COVID-19-Updates-day-use",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open. Park hours may vary from normal operations in response to COVID-19. Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. </p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Edgar Evins State Park",
+			"url_title": "edgar-evins",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0096"
+				}
+			],
+			"park_name": "Edgar Evins &lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "Edgar Evins",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/86/edgar-evins_sunset-hero__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/edgar-evins.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Visitor Center",
+					"street": "1630 Edgar Evins State Park Road",
+					"additional": "",
+					"city": "Silver Point",
+					"state": "TN",
+					"zip": "38582",
+					"phone": "931-646-3080",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.0876,
+					"lng": -85.8129
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Fall Creek Falls State Park",
+			"url_title": "fall-creek-falls",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0099"
+				},
+				 
+				{
+					"id": "TSP-0100"
+				},
+				 
+				{
+					"id": "TSP-0101"
+				},
+				 
+				{
+					"id": "TSP-0102"
+				},
+				 
+				{
+					"id": "TSP-0103"
+				},
+				 
+				{
+					"id": "TSP-0312"
+				},
+				 
+				{
+					"id": "TSP-0313"
+				}
+			],
+			"park_name": "Fall Creek Falls &lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "Fall Creek Falls",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/10/fall-creek-falls-hero-summer__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/fall-creek-falls.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office",
+					"street": "2009 Village Camp Road",
+					"additional": "",
+					"city": "Spencer",
+					"state": "TN",
+					"zip": "38585",
+					"phone": "423-881-5298",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Golf Course Clubhouse",
+					"street": "626 Golf Course Road",
+					"additional": "",
+					"city": "Spencer",
+					"state": "TN",
+					"zip": "38585",
+					"phone": "423-881-5706",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 35.6568,
+					"lng": -85.3576
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "05-22-2020: Trail Closures at Fall Creek Falls",
+					"url_title": "05-22-2020-trail-closures-at-fall-creek-falls",
+					"alert_type": "warning",
+					"closure_dates": "null",
+					"alert_content": "<p>05-22-2020: The following trails are closed at Fall Creek Falls until further notice.</p><ul><li>The Lower Loop Trail from Campsite 1-Campsite 2</li><li>The Piney Mountain Bike Trail </li><li>The Piney Falls Trail is closed for reconstruction of the swinging bridge.</li><li>The Nature Center Swinging Bridge is closed. There is no access from the Nature Center to Fall Creek Falls!!!</li></ul>"
+				},
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Fort Loudoun State Park",
+			"url_title": "fort-loudoun",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0109"
+				},
+				 
+				{
+					"id": "TSP-0110"
+				}
+			],
+			"park_name": "Fort Loudoun &lt;span&gt;State Historic Park&lt;\/span&gt; ",
+			"short_name": "Fort Loudoun",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/87/ft-loudoun_summer-hero__app.png",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/fort-loudoun.jpg",
+			"addresses": [
+				
+				{
+					"label": "Visitor Center / Museum",
+					"street": "338 Fort Loudoun Road",
+					"additional": "",
+					"city": "Vonore",
+					"state": "TN",
+					"zip": "37885",
+					"phone": "423-420-2331",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 35.596,
+					"lng": -84.2054
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-COVID-19-Updates-day-use",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open. Park hours may vary from normal operations in response to COVID-19. Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. </p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Fort Pillow State Park",
+			"url_title": "fort-pillow",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0111"
+				}
+			],
+			"park_name": "Fort Pillow &lt;span&gt;State Historic Park&lt;\/span&gt;",
+			"short_name": "Fort Pillow",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/88/fort-pillow_hero-cannon__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/fort-pillow.jpg",
+			"addresses": [
+				
+				{
+					"label": "Visitor Center / Museum",
+					"street": "3122 Park Road",
+					"additional": "",
+					"city": "Henning",
+					"state": "TN",
+					"zip": "38041",
+					"phone": "731-738-5581",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Park Office",
+					"street": "3122 Park Road",
+					"additional": "",
+					"city": "Henning",
+					"state": "TN",
+					"zip": "38041",
+					"phone": "731-738-5581",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 35.6403,
+					"lng": -89.8365
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Frozen Head State Park",
+			"url_title": "frozen-head",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0114"
+				},
+				 
+				{
+					"id": "TSP-0115"
+				},
+				 
+				{
+					"id": "TSP-0315"
+				}
+			],
+			"park_name": "Frozen Head &lt;span&gt;State Park&lt;\/span&gt; ",
+			"short_name": "Frozen Head",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/89/birdmtnrange-hero__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/frozen-head.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office",
+					"street": "964 Flat Fork Road",
+					"additional": "",
+					"city": "Wartburg",
+					"state": "TN",
+					"zip": "37887",
+					"phone": "423-346-3318",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.125,
+					"lng": -84.5045
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "Holiday Hours at Frozen Head",
+					"url_title": "holiday-hours-at-frozen-head",
+					"alert_type": "warning",
+					"closure_dates": "null",
+					"alert_content": "<p>The Visitor Center and the park office will be closed on Nov. 26, Dec. 24-25, and Dec. 31-Jan 1. Happy Holidays!</p>"
+				},
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Harpeth River State Park",
+			"url_title": "harpeth-river",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0124"
+				},
+				 
+				{
+					"id": "TSP-0125"
+				},
+				 
+				{
+					"id": "TSP-0126"
+				},
+				 
+				{
+					"id": "TSP-0123"
+				},
+				 
+				{
+					"id": "TSP-0127"
+				},
+				 
+				{
+					"id": "TSP-0128"
+				},
+				 
+				{
+					"id": "TSP-0129"
+				},
+				 
+				{
+					"id": "TSP-0130"
+				},
+				 
+				{
+					"id": "TSP-0131"
+				},
+				 
+				{
+					"id": "TSP-0132"
+				}
+			],
+			"park_name": "Harpeth River &lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "Harpeth River",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/90/canoe-006__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/harpeth-river.jpg",
+			"addresses": [
+				
+				{
+					"label": "Mail Address",
+					"street": "1640 Cedar Hill Road",
+					"additional": "",
+					"city": "Kingston Springs",
+					"state": "TN",
+					"zip": "37082",
+					"phone": "615-952-2099",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Gossett Tract Entrance",
+					"street": "1230 Cedar Hill Road",
+					"additional": "",
+					"city": "Kingston Springs",
+					"state": "TN",
+					"zip": "37082",
+					"phone": "",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Harris Street Bridge Canoe Access",
+					"street": "1672 Cedar Hill Road",
+					"additional": "",
+					"city": "Kingston Springs",
+					"state": "TN",
+					"zip": "37082",
+					"phone": "",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Hidden Lake Entrance",
+					"street": "7851 McCrory Lane",
+					"additional": "",
+					"city": "Nashville",
+					"state": "TN",
+					"zip": "37221",
+					"phone": "",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "HWY 70 Canoe Access",
+					"street": "1007 Cedar Hill Road / 1294 Hwy 70",
+					"additional": "(Intersection of those two roads)",
+					"city": "Kingston Springs",
+					"state": "TN",
+					"zip": "37082",
+					"phone": "",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "HWY 100 Canoe Access",
+					"street": "7701 Hwy 100",
+					"additional": "",
+					"city": "Nashville",
+					"state": "TN",
+					"zip": "37221",
+					"phone": "",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Kingston Springs City Park",
+					"street": "589 Park Street",
+					"additional": "",
+					"city": "Kingston Springs",
+					"state": "TN",
+					"zip": "37082",
+					"phone": "",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Narrows of the Harpeth",
+					"street": "1254 Narrow of the Harpeth Road",
+					"additional": "",
+					"city": "Kingston Springs",
+					"state": "TN",
+					"zip": "37082",
+					"phone": "",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Newsom's Mill",
+					"street": "8729 Newsom Station Road",
+					"additional": "",
+					"city": "Nashville",
+					"state": "TN",
+					"zip": "37221",
+					"phone": "",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.1477,
+					"lng": -87.1209
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-COVID-19-Updates-day-use",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open. Park hours may vary from normal operations in response to COVID-19. Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. </p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Harrison Bay State Park",
+			"url_title": "harrison-bay",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0133"
+				}
+			],
+			"park_name": "Harrison Bay &lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "Harrison Bay",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/91/harrison-bay_hero-golf-fall__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/harrison-bay.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Marina",
+					"street": "8411 Harrison Bay Road",
+					"additional": "",
+					"city": "Harrison",
+					"state": "TN",
+					"zip": "37341",
+					"phone": "423-344-6214",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Golf Course Clubhouse",
+					"street": "8919 Harrison Bay Road",
+					"additional": "",
+					"city": "Harrison",
+					"state": "TN",
+					"zip": "37341",
+					"phone": "423-326-0885",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 35.1683,
+					"lng": -85.1216
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Henry Horton State Park",
+			"url_title": "henry-horton",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0136"
+				}
+			],
+			"park_name": "Henry Horton &lt;span&gt;State Park&lt;\/span&gt; ",
+			"short_name": "Henry Horton",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/92/henry-horton_spring-trail-hero__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/henry-horton.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Visitor Center",
+					"street": "4209 Nashville HWY",
+					"additional": "",
+					"city": "Chapel Hill",
+					"state": "TN",
+					"zip": "37034",
+					"phone": "931-364-2222",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Golf Course Clubhouse",
+					"street": "4358 Nashville HWY",
+					"additional": "",
+					"city": "Chapel Hill",
+					"state": "TN",
+					"zip": "37034",
+					"phone": "931-364-2319",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Restaurant at Henry Horton",
+					"street": "4205 Nashville HWY",
+					"additional": "",
+					"city": "Chapel Hill",
+					"state": "TN",
+					"zip": "37034",
+					"phone": "931-364-8205",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Lodge",
+					"street": "4201 Nashville HWY",
+					"additional": "",
+					"city": "Chapel Hill",
+					"state": "TN",
+					"zip": "37034",
+					"phone": "931-364-2222",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 35.5898,
+					"lng": -86.694
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "Restaurant at Henry Horton Temporary Closure",
+					"url_title": "restaurant-at-henry-horton-temporary-closure",
+					"alert_type": "partial_closure",
+					"closure_dates": "null",
+					"alert_content": "<p>The Restaurant at Henry Horton is temporarily closed until mid-2021. The park is in the process of constructing and opening a brand new restaurant facility. This is an exciting new chapter in the park's history, and will provide a quality dining experience for visitors and the community.  We apologize for any inconvenience.</p>"
+				},
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Hiwassee / Ocoee Scenic River State Park",
+			"url_title": "hiwassee-ocoee",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0139"
+				},
+				 
+				{
+					"id": "TSP-0140"
+				},
+				 
+				{
+					"id": "TSP-0141"
+				}
+			],
+			"park_name": "Hiwassee\/Ocoee Scenic River &lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "Hiwassee \/ Ocoee",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/93/hiwassee-ocoee-raft1__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/hiwassee-ocoee.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Visitor Center",
+					"street": "404 Spring Creek Road ",
+					"additional": "",
+					"city": "Delano",
+					"state": "TN",
+					"zip": "37325",
+					"phone": "423-263-0050",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Mailing Address",
+					"street": "PO Box 5",
+					"additional": "",
+					"city": "Delano",
+					"state": "TN",
+					"zip": "37325",
+					"phone": "",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 35.2377,
+					"lng": -84.5506
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Indian Mountain State Park",
+			"url_title": "indian-mountain",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0147"
+				}
+			],
+			"park_name": "Indian Mountain &lt;span&gt;State Park&lt;\/span&gt; ",
+			"short_name": "Indian Mountain",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/94/indian-mounatin_hero-lake__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/indian-mountain.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office",
+					"street": "143 State Park Circle",
+					"additional": "",
+					"city": "Jellico",
+					"state": "TN",
+					"zip": "37762",
+					"phone": "423-566-5870",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.5845,
+					"lng": -84.1417
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Johnsonville State Historic Park",
+			"url_title": "johnsonville",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0152"
+				},
+				 
+				{
+					"id": "TSP-0153"
+				}
+			],
+			"park_name": "Johnsonville &lt;span&gt;State Historic Park&lt;\/span&gt;",
+			"short_name": "Johnsonville",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/95/001__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/johnsonville.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Museum",
+					"street": "90 Nell Beard Road",
+					"additional": "",
+					"city": "New Johnsonville",
+					"state": "TN",
+					"zip": "37134",
+					"phone": "931-535-2789",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.0317,
+					"lng": -87.9484
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-COVID-19-Updates-day-use",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open. Park hours may vary from normal operations in response to COVID-19. Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. </p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Long Hunter State Park",
+			"url_title": "long-hunter",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0159"
+				},
+				 
+				{
+					"id": "TSP-0160"
+				},
+				 
+				{
+					"id": "TSP-0161"
+				}
+			],
+			"park_name": "Long Hunter &lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "Long Hunter",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/96/long-hunter-heron3__app.png",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/long-hunter.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Visitor Center",
+					"street": "2910 Hobson Pike",
+					"additional": "",
+					"city": "Hermitage",
+					"state": "TN",
+					"zip": "37076",
+					"phone": "615-885-2422",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Day Use Park Areas",
+					"street": "2910 Hobson Pike",
+					"additional": "",
+					"city": "Hermitage",
+					"state": "TN",
+					"zip": "37076",
+					"phone": "",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.0924,
+					"lng": -86.5555
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "Long Hunter - Capacity Alerts",
+					"url_title": "long-hunter-capacity-alerts",
+					"alert_type": "warning",
+					"closure_dates": "null",
+					"alert_content": "<p>June 2020: Many areas of the park are experiencing full capacity and may be temporarily closed for short periods of time, especially on the weekends. If an area is full, please consider visiting a different section of the park.</p>"
+				},
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-COVID-19-Updates-day-use",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open. Park hours may vary from normal operations in response to COVID-19. Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. </p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Meeman-Shelby Forest State Park",
+			"url_title": "meeman-shelby",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0167"
+				},
+				 
+				{
+					"id": "TSP-0168"
+				}
+			],
+			"park_name": "Meeman-Shelby Forest &lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "Meeman-Shelby Forest",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/97/meeman-shelby_summer-rainbow_hero__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/meeman-shelby.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Visitor Center",
+					"street": "910 Riddick Road",
+					"additional": "",
+					"city": "Millington",
+					"state": "TN",
+					"zip": "38053",
+					"phone": "901-876-5215",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 35.3439,
+					"lng": -90.0327
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Montgomery Bell State Park",
+			"url_title": "montgomery-bell",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0170"
+				},
+				 
+				{
+					"id": "TSP-0171"
+				},
+				 
+				{
+					"id": "TSP-0172"
+				}
+			],
+			"park_name": "Montgomery Bell &lt;span&gt;State Park&lt;\/span&gt; ",
+			"short_name": "Montgomery Bell",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/98/montgomery-bell_spring_spillwayx__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/montgomery-bell.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Nature Center / Visitor Center",
+					"street": "1020 Jackson Hill Road",
+					"additional": "",
+					"city": "Burns",
+					"state": "TN",
+					"zip": "37029",
+					"phone": "615-797-9052",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "The Lodge Montgomery Bell",
+					"street": "1000 Hotel Avenue",
+					"additional": "",
+					"city": "Burns",
+					"state": "TN",
+					"zip": "37029",
+					"phone": "615-797-3101",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Golf Course Clubhouse",
+					"street": "800 Hotel Avenue",
+					"additional": "",
+					"city": "Burns",
+					"state": "TN",
+					"zip": "37029",
+					"phone": "615-797-2578",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Four Mile Creek Campground",
+					"street": "1020 Jackson Hill Road",
+					"additional": "",
+					"city": "Burns",
+					"state": "TN",
+					"zip": "37029",
+					"phone": "615-797-9052",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "The Restaurant Montgomery Bell",
+					"street": "1000 Hotel Avenue",
+					"additional": "",
+					"city": "Burns",
+					"state": "TN",
+					"zip": "37029",
+					"phone": "615-797-3101",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.101,
+					"lng": -87.2851
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Mousetail Landing State Park",
+			"url_title": "mousetail-landing",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0176"
+				}
+			],
+			"park_name": "Mousetail Landing &lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "Mousetail Landing",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/99/mousetail-landing_spring-hero__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/mousetail-landing.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office",
+					"street": "3 Campground Road",
+					"additional": "",
+					"city": "Linden",
+					"state": "TN",
+					"zip": "37096",
+					"phone": "731-847-0841",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 35.6557,
+					"lng": -88.0068
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "Alert: Timber Salvage Affects Hiking Trails",
+					"url_title": "alert-timber-salvage-affects-hiking-trails",
+					"alert_type": "partial_closure",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks will be conducting timber harvests and sales at Mousetail Landing State Park and Nathan Bedford Forrest State Park due to storm damage over the winter and spring. This action will necessitate the temporary closing of some trails.</p><p>Park officials plan to clear tracts of salvage timber damaged by storms in order to best establish uniform new growth in the affected areas and remove any hazards from the trail systems. </p><p>&ldquo;These steps are designed with the long-term health of the parks in mind,&rdquo; Jim Bryson, deputy commissioner of the Tennessee Department of Environment and Conservation, said. &ldquo;We understand this will mean a temporary inconvenience for some of our visitors, and we ask for their understanding as we address the needs of our parks.&rdquo;</p><p>At Mousetail Landing State Park, the work is expected to last from June through September. All hiking trails on the park will be closed. The backcountry shelters at the park will also be closed, as well as the primitive group camp. </p><p>At Nathan Bedford Forrest State Park, the work is expected to last from June through August. All trails north of Pilot Knob will be closed as well as the group campground. </p><p>The timber sale at each park will be overseen by the park manager and a consulting forester to ensure best practices are observed throughout the process. A detailed bid and selection process will be used, and the contractor will clear the trails system and affected surroundings of hazardous trees for the safety of park guests and the re-establishment of a healthy forest. Each park will implement a plan for growth of hardwood forest with early successional habitat established in the next few years.</p>"
+				},
+				
+				{
+					"title": "PUBLIC NOTICE May 14, 2020: The trails at Mousetail Landing are currently closed due to storm damage. ",
+					"url_title": "public-notice-may-14-2020the-trails-at-mousetail-landing-are-currently-closed-due-to-storm-damage",
+					"alert_type": "warning",
+					"closure_dates": "null",
+					"alert_content": "<p>PUBLIC NOTICE May 14, 2020: The trails at Mousetail Landing are currently closed due to storm damage. We recently had a wind storm and there are numerous trees down on our hiking trails. We are working on the situation. Thank you for your patience while we clean up.</p>"
+				},
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Natchez Trace State Park",
+			"url_title": "natchez-trace",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0178"
+				}
+			],
+			"park_name": "Natchez Trace &lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "Natchez Trace",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/100/natchez-trace-2015-kayak-sunset__app.png",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/natchez-trace.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office",
+					"street": "24845 Natchez Trace Rd",
+					"additional": "",
+					"city": "Wildersville",
+					"state": "TN",
+					"zip": "38388",
+					"phone": "731-968-3742",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Pin Oak Lodge",
+					"street": "567 Pin Oak Lodge Road",
+					"additional": "",
+					"city": "Wildersville",
+					"state": "TN",
+					"zip": "38388",
+					"phone": "800-250-8616",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "The Western Spur Restaurant",
+					"street": "567 Pin Oak Lodge Road",
+					"additional": "",
+					"city": "Wildersville",
+					"state": "TN",
+					"zip": "38388",
+					"phone": "731-968-8176",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 35.7967,
+					"lng": -88.2647
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Nathan Bedford Forrest State Park",
+			"url_title": "nathan-bedford-forrest",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0180"
+				},
+				 
+				{
+					"id": "TSP-0181"
+				}
+			],
+			"park_name": "Nathan Bedford Forrest &lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "Nathan Bedford Forrest",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/101/nbf-hero-sunset-2018__app.png",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/nathan-bedford-forrest.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Visitor Center",
+					"street": "1825 Pilot Knob Road",
+					"additional": "",
+					"city": "Eva",
+					"state": "TN",
+					"zip": "38333",
+					"phone": "731-593-6445",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.0828,
+					"lng": -87.9853
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "Notice June 19: All trails north of Pilot Knob closed at Nathan Bedford Forrest",
+					"url_title": "notice-June-10-nbf-trail-closure",
+					"alert_type": "warning",
+					"closure_dates": "null",
+					"alert_content": "<p>Public Notice June 19: All trails north of Pilot Knob  at Nathan Bedford Forrest State Park are closed due to damage from a tornado. Thank you for your patience.</p>"
+				},
+				
+				{
+					"title": "Alert: Timber Salvage Affects Hiking Trails",
+					"url_title": "alert-timber-salvage-affects-hiking-trails",
+					"alert_type": "partial_closure",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks will be conducting timber harvests and sales at Mousetail Landing State Park and Nathan Bedford Forrest State Park due to storm damage over the winter and spring. This action will necessitate the temporary closing of some trails.</p><p>Park officials plan to clear tracts of salvage timber damaged by storms in order to best establish uniform new growth in the affected areas and remove any hazards from the trail systems. </p><p>&ldquo;These steps are designed with the long-term health of the parks in mind,&rdquo; Jim Bryson, deputy commissioner of the Tennessee Department of Environment and Conservation, said. &ldquo;We understand this will mean a temporary inconvenience for some of our visitors, and we ask for their understanding as we address the needs of our parks.&rdquo;</p><p>At Mousetail Landing State Park, the work is expected to last from June through September. All hiking trails on the park will be closed. The backcountry shelters at the park will also be closed, as well as the primitive group camp. </p><p>At Nathan Bedford Forrest State Park, the work is expected to last from June through August. All trails north of Pilot Knob will be closed as well as the group campground. </p><p>The timber sale at each park will be overseen by the park manager and a consulting forester to ensure best practices are observed throughout the process. A detailed bid and selection process will be used, and the contractor will clear the trails system and affected surroundings of hazardous trees for the safety of park guests and the re-establishment of a healthy forest. Each park will implement a plan for growth of hardwood forest with early successional habitat established in the next few years.</p>"
+				},
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Norris Dam State Park",
+			"url_title": "norris-dam",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0183"
+				}
+			],
+			"park_name": "Norris Dam &lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "Norris Dam",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/102/norris-dam_hero-summer__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/norris-dam.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office",
+					"street": "125 Village Green Circle ",
+					"additional": "",
+					"city": "Rocky Top",
+					"state": "TN",
+					"zip": "37769",
+					"phone": "865-425-4500",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.2396,
+					"lng": -84.1094
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "West Campground at Norris Dam closed Nov. 2020 to May 2021.",
+					"url_title": "west-campground-at-norris-dam-closed-nov-2020-to-may-2021",
+					"alert_type": "partial_closure",
+					"closure_dates": "null",
+					"alert_content": "<p>Norris Dam State Park West Campground, located at the west entrance on Andrew's Ridge Road, will close on November 1st for the water tower replacement project. This project will start on November 2nd and is slated to be completed by the end of April 2021. The west campground will reopen for the summer of 2021.</p>"
+				},
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Old Stone Fort State Archaeological Park",
+			"url_title": "old-stone-fort",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0189"
+				},
+				 
+				{
+					"id": "TSP-0190"
+				}
+			],
+			"park_name": "Old Stone Fort &lt;span&gt;State Archaeological Park&lt;\/span&gt;",
+			"short_name": "Old Stone Fort",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/103/small-old-stone-fort_hero-enclosure__hero__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/old-stone-fort.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Museum",
+					"street": "732 Stone Fort Drive",
+					"additional": "",
+					"city": "Manchester",
+					"state": "TN",
+					"zip": "37355",
+					"phone": "931-723-5073",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 35.4863,
+					"lng": -86.1026
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-COVID-19-Updates-day-use",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open. Park hours may vary from normal operations in response to COVID-19. Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. </p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Panther Creek State Park",
+			"url_title": "panther-creek",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0194"
+				}
+			],
+			"park_name": "Panther Creek &lt;span&gt;State Park&lt;\/span&gt; ",
+			"short_name": "Panther Creek",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/104/panther-creek-sunset-hero__app.png",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/panther-creek.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office",
+					"street": "2010 Panther Creek Park Road",
+					"additional": "",
+					"city": "Morristown",
+					"state": "TN",
+					"zip": "37814",
+					"phone": "423-587-7046",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.2069,
+					"lng": -83.4063
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "Bathrooms at pavilions and overlook closed starting Nov 19, 2020",
+					"url_title": "bathrooms-at-pavilions-and-overlook-closed-starting-nov-19-2020",
+					"alert_type": "partial_closure",
+					"closure_dates": "null",
+					"alert_content": "<p>The Spoone Pavilion, Smallman Pavilion and upper bathrooms near the Overlook will be closed for the winter beginning November 19, 2020 due to the potential for water freezing.</p>"
+				},
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Paris Landing State Park",
+			"url_title": "paris-landing",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0195"
+				},
+				 
+				{
+					"id": "TSP-0196"
+				}
+			],
+			"park_name": "Paris Landing &lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "Paris Landing",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/4/paris-landing__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/paris-landing.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office",
+					"street": "16055 Hwy 79 N",
+					"additional": "",
+					"city": "Buchanan",
+					"state": "TN",
+					"zip": "38222",
+					"phone": "731-641-4465",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Golf Course Clubhouse",
+					"street": "285 Golf Course Lane",
+					"additional": "",
+					"city": "Buchanan",
+					"state": "TN",
+					"zip": "38222",
+					"phone": "731-641-4459",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Marina",
+					"street": "41 Marina Drive",
+					"additional": "",
+					"city": "Buchanan",
+					"state": "TN",
+					"zip": "3822",
+					"phone": "731-641-4474",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.4394,
+					"lng": -88.0833
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "Paris Landing Inn & Riverboat Restaurant Closure",
+					"url_title": "paris-landing-inn-riverboat-restaurant-closure",
+					"alert_type": "warning",
+					"closure_dates": "null",
+					"alert_content": "<p>The Inn at Paris Landing, which included the Riverboat Restaurant, is closed for rebuild. The closure of this facility is in preparation for the construction of a new inn and restaurant on the premises. <a href=\"https://tnstateparks.com/parks/inn/paris-landing\">Visit this page to learn more about the closure.</a></p>"
+				},
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Pickett CCC Memorial State Park",
+			"url_title": "pickett",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0201"
+				},
+				 
+				{
+					"id": "TSP-0202"
+				},
+				 
+				{
+					"id": "TSP-0203"
+				}
+			],
+			"park_name": "Pickett CCC Memorial &lt;span&gt;State Park&lt;\/span&gt; ",
+			"short_name": "Pickett",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/105/pickett-arch_hero__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/pickett.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Visitor Center",
+					"street": "4605 Pickett Park Highway",
+					"additional": "",
+					"city": "Jamestown",
+					"state": "TN",
+					"zip": "38556",
+					"phone": "931-879-5821",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.5513,
+					"lng": -84.7967
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Pickwick Landing State Park",
+			"url_title": "pickwick-landing",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0204"
+				},
+				 
+				{
+					"id": "TSP-0205"
+				}
+			],
+			"park_name": "Pickwick Landing &lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "Pickwick Landing",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/106/pickwick_lasning_lodge_drone_hero__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/pickwick-landing.jpg",
+			"addresses": [
+				
+				{
+					"label": "Golf Course Clubhouse",
+					"street": "60 Winfield Dunn Lane",
+					"additional": "",
+					"city": "Pickwick Dam",
+					"state": "TN",
+					"zip": "38365",
+					"phone": "731-689-3149",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Mail Address",
+					"street": "PO Box 15",
+					"additional": "",
+					"city": "Pickwick Dam",
+					"state": "TN",
+					"zip": "38365",
+					"phone": "",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Park Office",
+					"street": "116 State Park Lane",
+					"additional": "",
+					"city": "Counce",
+					"state": "TN",
+					"zip": "38326",
+					"phone": "731-689-3129",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Lodge & Conference Center",
+					"street": "120 Playground Loop",
+					"additional": "",
+					"city": "Counce",
+					"state": "TN",
+					"zip": "38326",
+					"phone": "731-689-3135",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "The Restaurant at Pickwick Landing",
+					"street": "120 Playground Loop",
+					"additional": "",
+					"city": "Counce",
+					"state": "TN",
+					"zip": "38326",
+					"phone": "731-689-3135",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 35.0522,
+					"lng": -88.2409
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Pinson Mounds State Archaeological Park",
+			"url_title": "pinson-mounds",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0206"
+				},
+				 
+				{
+					"id": "TSP-0207"
+				}
+			],
+			"park_name": "Pinson Mounds &lt;span&gt;State Archaeological Park&lt;\/span&gt;",
+			"short_name": "Pinson Mounds",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/107/pinson-mounds_hero-2017__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/pinson-mounds.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Museum",
+					"street": "460 Ozier Road",
+					"additional": "",
+					"city": "Pinson",
+					"state": "TN",
+					"zip": "38366",
+					"phone": "731-988-5614",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 35.4981,
+					"lng": -88.6822
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-COVID-19-Updates-day-use",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open. Park hours may vary from normal operations in response to COVID-19. Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. </p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Port Royal State Park",
+			"url_title": "port-royal",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0209"
+				},
+				 
+				{
+					"id": "TSP-0210"
+				}
+			],
+			"park_name": "Port Royal &lt;span&gt;State Historic Park&lt;\/span&gt;",
+			"short_name": "Port Royal",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/108/port-royal_bridge__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/port-royal.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office",
+					"street": "3300 Old Clarksville Hwy.",
+					"additional": "",
+					"city": "Adams",
+					"state": "TN",
+					"zip": "37010",
+					"phone": "931-645-0622",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.5539,
+					"lng": -87.1423
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-COVID-19-Updates-day-use",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open. Park hours may vary from normal operations in response to COVID-19. Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. </p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Radnor Lake State Park",
+			"url_title": "radnor-lake",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0214"
+				}
+			],
+			"park_name": "Radnor Lake &lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "Radnor Lake",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/109/radnor-lake_sunrise_july_2014a__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/radnor-lake.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Visitor Center",
+					"street": "1160 Otter Creek Road",
+					"additional": "",
+					"city": "Nashville",
+					"state": "TN",
+					"zip": "37220",
+					"phone": "615-373-3467",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.0631,
+					"lng": -86.8097
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "06-23-2020: We encourage everyone participating in a program, hike, or event to bring and wear a mask.",
+					"url_title": "06-23-2020-anyone-participating-in-a-program-hikeor-event-must-bring-and-wear-a-mask",
+					"alert_type": "warning",
+					"closure_dates": "null",
+					"alert_content": "<p>06-23-2020: We encourage everyone participating in a program, hike, or event to bring and wear a mask but with some events, like guided canoe floats, they are not required. </p>"
+				},
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-COVID-19-Updates-day-use",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open. Park hours may vary from normal operations in response to COVID-19. Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. </p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Red Clay State Park",
+			"url_title": "red-clay",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0216"
+				}
+			],
+			"park_name": "Red Clay &lt;span&gt;State Historic Park&lt;\/span&gt;",
+			"short_name": "Red Clay",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/119/red-clay_hero__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/red-clay.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office & Museum",
+					"street": "1140 Red Clay Park Road S.W.",
+					"additional": "",
+					"city": "Cleveland",
+					"state": "TN",
+					"zip": "37311",
+					"phone": "423-478-0339",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 34.9942,
+					"lng": -84.9454
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-COVID-19-Updates-day-use",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open. Park hours may vary from normal operations in response to COVID-19. Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. </p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Reelfoot Lake State Park",
+			"url_title": "reelfoot-lake",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0218"
+				}
+			],
+			"park_name": "Reelfoot Lake &lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "Reelfoot Lake",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/110/reelfoot-lake_cabin-hero__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/reelfoot-lake.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Visitor Center",
+					"street": "2595 Hwy 21 E",
+					"additional": "",
+					"city": "Tiptonville",
+					"state": "TN",
+					"zip": "38079",
+					"phone": "731-253-9652",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.363,
+					"lng": -89.4327
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "Please excuse our dust while some parts of the visitor center are under renovation at Reelfoot Lake.",
+					"url_title": "please-excuse-our-dust-while-some-parts-of-the-visitor-center-areunder-renovation-at-reelfoot-lake",
+					"alert_type": "warning",
+					"closure_dates": "null",
+					"alert_content": "<p>Public Notice: Please excuse our dust while some parts of the visitor center are under renovation through January 2020. Everyone is welcome to tour other areas inside the building. </p><p><br /> </p>"
+				},
+				
+				{
+					"title": "Mask Required for Programs, Events and Tours",
+					"url_title": "mask-required-for-programs-events-and-tours",
+					"alert_type": "warning",
+					"closure_dates": "null",
+					"alert_content": "<p>Anyone participating in a program, event, tour, etc. at a park must bring and wear a mask. </p>"
+				},
+				
+				{
+					"title": "South Campground C Street Bathhouse is Closed at Reelfoot Lake",
+					"url_title": "south-campground-c-street-bathhouse-is-closed-at-reelfoot-lake",
+					"alert_type": "warning",
+					"closure_dates": "null",
+					"alert_content": "<p>The C Street bathhouse in the South Campground is currently closed and there is no longer a dishing washing station for camping guests. We apologize for the inconvenience.</p>"
+				},
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Roan Mountain State Park",
+			"url_title": "roan-mountain",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0220"
+				}
+			],
+			"park_name": "Roan Mountain &lt;span&gt;State Park&lt;\/span&gt; ",
+			"short_name": "Roan Mountain",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/118/roan-mtn_mountains-summer__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/roan-mountain.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office",
+					"street": "1015 HWY 143",
+					"additional": "",
+					"city": "Roan Mountain",
+					"state": "TN",
+					"zip": "37687",
+					"phone": "423-547-3900",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Mailing Address",
+					"street": "1015 HWY 143",
+					"additional": "",
+					"city": "Roan Mountain",
+					"state": "TN",
+					"zip": "37687",
+					"phone": "423-547-3900",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Conference Center",
+					"street": "1011 HWY 143",
+					"additional": "",
+					"city": "Roan Mountain",
+					"state": "TN",
+					"zip": "37687",
+					"phone": "",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Visitor Center",
+					"street": "527 HWY 143",
+					"additional": "",
+					"city": "Roan Mountain",
+					"state": "TN",
+					"zip": "37687",
+					"phone": "423-547-3906",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.1765,
+					"lng": -82.0793
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "July 16: WiFi Outage at Roan Mountain Campground",
+					"url_title": "july-16-wifi-outage-at-roan-mountain-campground",
+					"alert_type": "warning",
+					"closure_dates": "null",
+					"alert_content": "<p>Wi-Fi is currently Out of Service in our Campground due to a storm knocking the router out. We are in the process of getting it replaced. Please be patient with us.</p><p>Wi-Fi is available at our Conference Center beside Park Headquarters. Exit the Campground and turn left. Take the third road to your right; the Conference Center is located at the top of the hill on the left. Wi-Fi Password will be located on the bulletin board to the right of the game room entrance.<br /> </p>"
+				},
+				
+				{
+					"title": "Appalachian Trail safety links",
+					"url_title": "appalachian-trail-safety-links",
+					"alert_type": "null",
+					"closure_dates": "null",
+					"alert_content": "<p>To learn more about Safety and Crime Prevention on the AT visit the <a alt=\"AT Safety and Crime Prevention\" href=\"https://www.appalachiantrail.org/home/explore-the-trail/hiking-basics/safety\" title=\"AT Safety and Crime Prevention\">Appalachian Trail Safety and Crime Prevention</a>. To report an incident on the AT, visit the <a alt=\"Report an Incident on the AT\" href=\"https://www.appalachiantrail.org/home/explore-the-trail/report-an-incident\" title=\"Report an Incident on the AT\">Appalachian Trail: Report an Incident</a> page.</p>"
+				},
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Rock Island State Park",
+			"url_title": "rock-island",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0223"
+				},
+				 
+				{
+					"id": "TSP-0224"
+				},
+				 
+				{
+					"id": "TSP-0225"
+				}
+			],
+			"park_name": "Rock Island &lt;span&gt;State Park&lt;\/span&gt; ",
+			"short_name": "Rock Island",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/111/rock-island_spring-hero__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/rock-island.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office",
+					"street": "82 Beach Road",
+					"additional": "",
+					"city": "Rock Island",
+					"state": "TN",
+					"zip": "38581",
+					"phone": "931-837-4770",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 35.8093,
+					"lng": -85.6419
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "Rock Island Gorge Safety",
+					"url_title": "rock-island-gorge-safety",
+					"alert_type": "danger",
+					"closure_dates": "null",
+					"alert_content": "<p>IMPORTANT SAFETY INFO: Please note swimming or wading is not permitted downstream of the Powerhouse at any time, regardless of water releases. Check TVA's website for water release information and dam safety data at: <a href=\"http://www.tva.gov/Environment/Lake-Levels/Great-Falls\">www.tva.gov/Environment/Lake-Levels/Great-Falls</a>.</p><p>Please read the text below about the Caney Fork River Gorge and Safety Information prior to visiting the park. </p>"
+				},
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Rocky Fork State Park",
+			"url_title": "rocky-fork",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0226"
+				}
+			],
+			"park_name": "Lamar Alexander &lt;span&gt;Rocky Fork&lt;\/span&gt; &lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "Rocky Fork",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/2382/rocky-fork-mossy__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/rocky-fork.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Entrance",
+					"street": "501 Rocky Fork Road",
+					"additional": "",
+					"city": "Flag Pond",
+					"state": "TN",
+					"zip": "37657",
+					"phone": "423-271-1233",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Mailing Address",
+					"street": "PO Box 22",
+					"additional": "",
+					"city": "Flag Pond",
+					"state": "TN",
+					"zip": "37657",
+					"phone": "423-271-1233",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.0482,
+					"lng": -82.5566
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "June 1, 2020 Update: Rocky Fork Open for Visitors",
+					"url_title": "June-1-2020-update-rocky-fork-open-for-visitors",
+					"alert_type": "partial_closure",
+					"closure_dates": "null",
+					"alert_content": "<p>June 1, 2020 Update: The park is open for day-use visitors from 7AM to sunset. Please follow the guidelines on our <a href=\"http://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p><p>If Rocky Fork State Park is full, consider coming back at a different time. Consider coming earlier in the day to allow for plenty of time if an area is full and you need to adjust your plans. Tennessee State Parks may limit access to certain parks or areas if capacity is reached.</p>"
+				},
+				
+				{
+					"title": "Appalachian Trail safety links",
+					"url_title": "appalachian-trail-safety-links",
+					"alert_type": "null",
+					"closure_dates": "null",
+					"alert_content": "<p>To learn more about Safety and Crime Prevention on the AT visit the <a alt=\"AT Safety and Crime Prevention\" href=\"https://www.appalachiantrail.org/home/explore-the-trail/hiking-basics/safety\" title=\"AT Safety and Crime Prevention\">Appalachian Trail Safety and Crime Prevention</a>. To report an incident on the AT, visit the <a alt=\"Report an Incident on the AT\" href=\"https://www.appalachiantrail.org/home/explore-the-trail/report-an-incident\" title=\"Report an Incident on the AT\">Appalachian Trail: Report an Incident</a> page.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Seven Islands State Birding Park",
+			"url_title": "seven-islands",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0238"
+				}
+			],
+			"park_name": "Seven Islands &lt;span&gt;State Birding Park&lt;\/span&gt;",
+			"short_name": "Seven Islands",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/1350/seven-islands_hero-spring2-1__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/seven-islands.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Area",
+					"street": "2809 Kelly Lane",
+					"additional": "",
+					"city": "Kodak",
+					"state": "TN",
+					"zip": "37764",
+					"phone": "865-407-8335",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 35.9539,
+					"lng": -83.6867
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-COVID-19-Updates-day-use",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open. Park hours may vary from normal operations in response to COVID-19. Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. </p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Sgt. Alvin C. York State Park",
+			"url_title": "sgt-alvin-c-york",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0239"
+				},
+				 
+				{
+					"id": "TSP-0240"
+				}
+			],
+			"park_name": "Sgt. Alvin C. York &lt;span&gt;State Historic Park&lt;\/span&gt;",
+			"short_name": "Sgt. Alvin C. York",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/72/sgt-york_hero17__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/sgt-alvin-c-york.jpg",
+			"addresses": [
+				
+				{
+					"label": "Visitor Center / Museum",
+					"street": "2609 North York Hwy",
+					"additional": "",
+					"city": "Pall Mall",
+					"state": "TN",
+					"zip": "38577",
+					"phone": "931-879-6456",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.5416,
+					"lng": -84.9596
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-COVID-19-Updates-day-use",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open. Park hours may vary from normal operations in response to COVID-19. Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. </p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "South Cumberland State Park",
+			"url_title": "south-cumberland",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0248"
+				},
+				 
+				{
+					"id": "TSP-0249"
+				},
+				 
+				{
+					"id": "TSP-0250"
+				},
+				 
+				{
+					"id": "TSP-0251"
+				},
+				 
+				{
+					"id": "TSP-0252"
+				},
+				 
+				{
+					"id": "TSP-0253"
+				},
+				 
+				{
+					"id": "TSP-0254"
+				},
+				 
+				{
+					"id": "TSP-0255"
+				},
+				 
+				{
+					"id": "TSP-0256"
+				},
+				 
+				{
+					"id": "TSP-0257"
+				},
+				 
+				{
+					"id": "TSP-0258"
+				}
+			],
+			"park_name": "South Cumberland &lt;span&gt;State Park&lt;\/span&gt; ",
+			"short_name": "South Cumberland",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/112/south-cumberland-hero-summer4__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/south-cumberland.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Visitor Center",
+					"street": "11745 US 41",
+					"additional": "",
+					"city": "Monteagle",
+					"state": "TN",
+					"zip": "37356",
+					"phone": "931-924-2980",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Savage Gulf Ranger Station",
+					"street": "3157 SR 399",
+					"additional": "",
+					"city": "Palmer",
+					"state": "TN",
+					"zip": "37365",
+					"phone": "931-779-3532",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Stone Door Ranger Station",
+					"street": "1183 Stone Door Dr",
+					"additional": "",
+					"city": "Beersheba Springs",
+					"state": "TN",
+					"zip": "37305",
+					"phone": "931-692-3887",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Grundy Forest Trail Head",
+					"street": "131 Fiery Gizzard Road",
+					"additional": "",
+					"city": "Tracy City",
+					"state": "TN",
+					"zip": "37387",
+					"phone": "",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Foster Falls Entrance",
+					"street": "498 Foster Falls Road ",
+					"additional": "Tracy Highway 41",
+					"city": "Sequatchie",
+					"state": "TN",
+					"zip": "37374",
+					"phone": "",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Denny Cove Entrance",
+					"street": "5949 TN-150 Scenic",
+					"additional": "",
+					"city": "Sequatchie",
+					"state": "TN",
+					"zip": "37374",
+					"phone": "",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 35.255,
+					"lng": -85.7906
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "05-29-2020: The bridge on the Fiery Gizzard is washed out.",
+					"url_title": "05-29-2020the-bridge-on-the-fiery-gizzard-is-washed-out",
+					"alert_type": "danger",
+					"closure_dates": "null",
+					"alert_content": "<p>05-29-2020: The bridge on the Fiery Gizzard is washed out. The trail is open to cross at your own risk, but If the water is high the trail is closed to through hikers. Grundy Forest Day Loop is open. Foster Falls to Small Wilds is open.</p>"
+				},
+				
+				{
+					"title": "South Cumberland - Overcrowded waterfalls",
+					"url_title": "south-cumberland-overcrowded-waterfalls",
+					"alert_type": "warning",
+					"closure_dates": "null",
+					"alert_content": "<p>South Cumberland State Park is seeing high-impact visitation patterns at Foster Falls, Greeter Falls and the Grundy Forest Trailheads. Visitors should please conduct themselves in responsible manners when visiting these areas:</p><ul><li>If no parking spaces are available, please choose a different destination. Parking along the sides of the roads and in undesignated areas is prohibited. </li><li>Carry in what you carry out. Litter destroys the natural environments for which the park was created to preserve. </li><li>Please stay on the trail and avoid cliff jumping and other risky behaviors.</li></ul>"
+				},
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Standing Stone State Park",
+			"url_title": "standing-stone",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0262"
+				}
+			],
+			"park_name": "Standing Stone &lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "Standing Stone",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/117/standing-stone_spring__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/standing-stone.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Visitor Center",
+					"street": "1674 Standing Stone Park Hwy.",
+					"additional": "",
+					"city": "Hilham",
+					"state": "TN",
+					"zip": "38568",
+					"phone": "931-823-6347",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.4713,
+					"lng": -85.4152
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "Standing Stone RV Access Alert",
+					"url_title": "standing-stone-rv-access-alert",
+					"alert_type": "warning",
+					"closure_dates": "null",
+					"alert_content": "<p>**ATTENTION CAMPERS: If you are traveling with a trailer or RV, please use Hwy. 52 to Hwy. 136, due to inaccessibility to RVs from the south entrance of the park. </p>"
+				},
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Sycamore Shoals State Park",
+			"url_title": "sycamore-shoals",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0273"
+				},
+				 
+				{
+					"id": "TSP-0274"
+				},
+				 
+				{
+					"id": "TSP-0275"
+				}
+			],
+			"park_name": "Sycamore Shoals &lt;span&gt;State Historic Park&lt;\/span&gt;",
+			"short_name": "Sycamore Shoals",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/113/sycamore-shoals_overmountainmen-2014a__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/sycamore-shoals.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Visitor Center",
+					"street": "1651 W. Elk Avenue",
+					"additional": "",
+					"city": "Elizabethton",
+					"state": "TN",
+					"zip": "37643",
+					"phone": "423-543-5808",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.344,
+					"lng": -82.2529
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "Sycamore Shoals Visitor Center Lunch Closures",
+					"url_title": "sycamore-shoals-visitor-center-lunch-closures",
+					"alert_type": "partial_closure",
+					"closure_dates": "null",
+					"alert_content": "<p>May 28, 2020: Sycamore Shoals is closing the Visitorcs Center & restrooms daily for lunch and cleaning between the hours of 11:30AM - 1:30PM EST.</p>"
+				},
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-COVID-19-Updates-day-use",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open. Park hours may vary from normal operations in response to COVID-19. Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. </p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "T.O. Fuller State Park",
+			"url_title": "t-o-fuller",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0276"
+				}
+			],
+			"park_name": "T.O. Fuller &lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "T. O. Fuller",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/114/to-fuller__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/t-o-fuller.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Visitor Center",
+					"street": "1500 W. Mitchell Road",
+					"additional": "",
+					"city": "Memphis",
+					"state": "TN",
+					"zip": "38109",
+					"phone": "901-543-7581",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Interpretive Center",
+					"street": "1442 Pavilion Drive",
+					"additional": "",
+					"city": "Memphis",
+					"state": "TN",
+					"zip": "38109",
+					"phone": "",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 35.0597,
+					"lng": -90.1142
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "T.O. Fuller Basketball Courts Closed",
+					"url_title": "t.o-fuller-basketball-courts-closed",
+					"alert_type": "partial_closure",
+					"closure_dates": "null",
+					"alert_content": "<p>May 28, 2020: The basketball courts remain closed. This is in accordance with state and local protocols regarding basketball courts and COVID-19. Guests may still utilize the hiking trails at the park by parking at the visitor's center. </p>"
+				},
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Tims Ford State Park",
+			"url_title": "tims-ford",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0279"
+				},
+				 
+				{
+					"id": "TSP-0280"
+				}
+			],
+			"park_name": "Tims Ford &lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "Tims Ford",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/116/tims-ford_golf-aerial-hero__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/tims-ford.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office / Visitor Center",
+					"street": "570 Tims Ford Drive",
+					"additional": "",
+					"city": "Winchester",
+					"state": "TN",
+					"zip": "37398",
+					"phone": "931-968-3536",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Golf Course Clubhouse",
+					"street": "891 Wiseman Bend Road",
+					"additional": "",
+					"city": "Winchester",
+					"state": "TN",
+					"zip": "37398",
+					"phone": "931-968-0995",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Turkey Creek Campground",
+					"street": "1400 Turkey Creek Boat Dock Road",
+					"additional": "",
+					"city": "Tullahoma",
+					"state": "TN",
+					"zip": "37388",
+					"phone": "",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 35.2204,
+					"lng": -86.2558
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "Tims Ford State Park Swimming Pool will be closed for the 2020 season.",
+					"url_title": "tims-ford-state-park-swimming-pool-will-be-closed-for-the-2020-season-due",
+					"alert_type": "warning",
+					"closure_dates": "null",
+					"alert_content": "<p>NOTICE March 14: Tims Ford State Park Swimming Pool will be closed for the 2020 season due to a maintenance issue. We apologize for any inconvenience and look forward to seeing you next year!</p>"
+				},
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		},
+	
+		{
+			"title": "Warriors' Path State Park",
+			"url_title": "warriors-path",
+			"TSP_UID": [
+				 
+				{
+					"id": "TSP-0291"
+				}
+			],
+			"park_name": "Warriors' Path&lt;span&gt;State Park&lt;\/span&gt;",
+			"short_name": "Warriors' Path",
+			"imageURL": "https://tnstateparks.com/assets/images/hero-images/115/warriors-path-hero-spring__app.jpg",
+			"smallhero": "https://tnstateparks.com/assets/images/hero-images/warriors-path.jpg",
+			"addresses": [
+				
+				{
+					"label": "Park Office",
+					"street": "490 Hemlock Road",
+					"additional": "",
+					"city": "Kingsport",
+					"state": "TN",
+					"zip": "37663",
+					"phone": "423-239-8531",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Mailing Address",
+					"street": "PO Box 5026",
+					"additional": "",
+					"city": "Kingsport",
+					"state": "TN",
+					"zip": "37663",
+					"phone": "",
+					"add_phone": ""
+				},
+				
+				{
+					"label": "Golf Course Clubhouse",
+					"street": "1687 Fall Creek Road",
+					"additional": "",
+					"city": "Kingsport",
+					"state": "TN",
+					"zip": "37663",
+					"phone": "423-323-4990",
+					"add_phone": ""
+				}
+				],
+			"gps": [
+				
+				{
+					"label": "Park GPS Coordinates",
+					"lat": 36.4986,
+					"lng": -82.4869
+				}
+			],
+			"park_alerts":[
+				
+				{
+					"title": "Warriors&#8217; Path Closures January 2020",
+					"url_title": "warriors-path-closures-january-2020",
+					"alert_type": "partial_closure",
+					"closure_dates": "null",
+					"alert_content": "<p>July 29, 2019: The Overflow Campground and Recreation Building will be closed for renovations starting January 2020. We anticipate the projects to take 7 months and 14 months respectively. Please contact the park office for more information at 423 239-8531.</p>"
+				},
+				
+				{
+					"title": "October 2020: COVID-19 Updates",
+					"url_title": "October-2020-covid-19-updates-overnight-guests",
+					"alert_type": "none",
+					"closure_dates": "null",
+					"alert_content": "<p>Tennessee State Parks are open for day-use visitors and overnight guests. We do provide <a href=\"/about/covid-19-and-travel-planning\">travel tips</a> and FAQs for those wishing to visit our parks. Availability of inventory for <a href=\"https://reserve.tnstateparks.com\">online booking</a> may be lower than normal as the park pursues social distancing. </p><p>Certain parks or areas of parks may close if they reach capacity. Events may have limited capacity. Park hours may vary from normal operations in response to COVID-19.</p><p><strong>Please Note:</strong> Masks are required inside all state park facilities. For more information about this and other guidelines, please see our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy</a> page to ensure a safe and enjoyable experience.</p>"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,85 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-buttons left>
+      <button ion-button icon-only (click)="cancel()">
+        <ion-icon name="arrow-back"></ion-icon>
+      </button>
+    </ion-buttons>
+  </ion-navbar>
+
+</ion-header>
+
+<ion-content padding>
+
+  <ion-grid>
+    <ion-row class="clear-filter"  (click)="clearFilters()">
+      <ion-col col-6 offset-3 >
+          <div text-center>
+              <span style="color:white;">Clear Filters</span>
+            </div>
+      </ion-col>
+      <ion-col col-3>
+          <div text-right>
+              <span style="color:white;">X</span>
+            </div>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+
+
+  <div text-center>
+    <img class="filters-icon" src="assets/img/filter.svg" />
+    <p>What would you like to filter ?</p>
+  </div>
+
+
+
+  <p class="title">Store Types: <span class="pract">( if nothing selected then all selections will show )</span></p>
+  <ion-grid>
+    <ion-row>
+      <ion-col col-6 *ngFor="let type of StoreTypes">
+        <p class="store-label-deselected" [ngClass]="{'selected': type.selected}" (click)="selected(type, 'StoreTypes')">{{type.Name}}</p>
+      </ion-col>
+      <ion-col class="all-malls" col-12>
+        <ion-select [(ngModel)]="filter.MallId" [disabled]="filter.StoreTypes.indexOf(StoreTypes[0]) == -1" >
+          <ion-option value="0">All Malls</ion-option>
+          <ion-option *ngFor="let mall of Malls" value="{{mall.Id}}">{{mall.Name}}</ion-option>
+        </ion-select>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+  <p class="title">Categories <span class="pract">( if nothing selected then all selections will show )</span></p>
+  <ion-grid>
+    <ion-row>
+      <ion-col col-6 *ngFor="let cat of Categories">
+        <p class="store-label-deselected" [ngClass]="{'selected': cat.selected}" (click)="selected(cat, 'SaleCategories')">{{cat.Name}}</p>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+
+  <p class="title">Stores <span class="pract">( if nothing selected then all selections will show )</span></p>
+  <ion-grid>
+    <ion-row>
+      <ion-col col-6>
+          <p><a (click)="selectAll()">Select All</a></p>
+      </ion-col>
+      <ion-col col-6>
+          <p><a (click)="deselectAll()">Deselect All</a></p>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col col-6 *ngFor="let store of Stores">
+        <p class="store-label-deselected" [ngClass]="{'selected': store.selected}" (click)="selected(store, 'Stores')">{{store.Name}}</p>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+
+
+</ion-content>
+
+<ion-footer>
+  <ion-toolbar>
+    <button ion-button color="dark" block clear (click)="doFilter()">Apply Filters</button>
+  </ion-toolbar>
+</ion-footer>

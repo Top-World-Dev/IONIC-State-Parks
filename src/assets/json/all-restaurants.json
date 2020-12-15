@@ -1,0 +1,648 @@
+
+
+
+
+
+
+{
+	"restaurants": 
+	[
+	
+			{
+				"title": "Crockett's Mill Restaurant",
+				"url_title": "David-Crockett",
+				"short_name": "David Crockett",
+				"restaurant_summary": "<p>A relaxed atmosphere and home-style cooking keep diners coming back for favorites like Backwoods Chicken, Bulls-eye Pasta, and Pan-seared Rib-eye.</p>",
+				"restaurant_description": "<p>A relaxed atmosphere and home-style cooking keep diners coming back for favorites like Backwoods Chicken, Bulls-eye Pasta, and Pan-seared Rib-eye. Menus and specials are posted here and on <a href=\"https://www.facebook.com/DavidCrockettStatePark/\">David Crockett State Park's Facebook page</a>. You can round out your meal with a glass of wine or cocktail. Outdoor seating on the patio is perfect for warmer weather. The patio seats 20-25 guests and features items from the menu. </p><h5>FAMILY-STYLE BREAKFAST $10.95</h5><p>Saturday and Sunday: All You Care To Eat&mdash;Brought To Your Table</p><p>Serving 8 AM to 10 AM. Fill up with a true Southern family breakfast. Perfect before hitting the trail. Everything is passed around the table just like you used to do at home. Only this time, no cooking and no clean-up. Want more? Just ask. Biscuits, White Gravy, Homemade Muffins, French Toast Sticks, Jelly, Butter and Syrup, Scrambled Eggs, Bacon, Sausage Baked Apples, Potato Casserole, Grits.</p><h5>PICNIC FAMILY PACKS</h5><p>What better way to spend the day than a picnic in the park! These family-sized meals include two entrees, two sides, rolls, and two desserts. Call your order in and pick it up curbside! Picnic packs are available from 11 a.m. to 3 p.m. Wednesday through Sunday.</p><h5>DOG-FRIENDLY SEATING</h5><p>For guests accompanied by their canine friends, we have a dog-friendly seating area outside. This seating area is limited to items ordered from the menu. </p><h5>EVENTS AND CATERING</h5><p>Reservations may be taken for wedding receptions, family reunions, class reunions, business meetings, luncheons, and other events. Catering is available on-site. </p>",
+				"restaurant_images": 
+					
+					[
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/brioche-burger_web-2.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/brioche-burger_web-2__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/brioche-burger_web-2__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/brioche-burger_web-2__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/brioche-burger_web-2__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/brioche-burger_web-2__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/brioche-burger_web-2__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/brioche-burger_web-2__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/brioche-burger_web-2__slider_lazy_xl.jpg"
+							},
+						
+						
+					
+					
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/biscuits_web-2.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/biscuits_web-2__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/biscuits_web-2__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/biscuits_web-2__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/biscuits_web-2__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/biscuits_web-2__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/biscuits_web-2__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/biscuits_web-2__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/biscuits_web-2__slider_lazy_xl.jpg"
+							},
+						
+						
+					
+					
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/breakfast_web-2.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/breakfast_web-2__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/breakfast_web-2__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/breakfast_web-2__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/breakfast_web-2__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/breakfast_web-2__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/breakfast_web-2__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/breakfast_web-2__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/breakfast_web-2__slider_lazy_xl.jpg"
+							},
+						
+						
+					
+					
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/country-fried-steak_web-2.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/country-fried-steak_web-2__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/country-fried-steak_web-2__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/country-fried-steak_web-2__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/country-fried-steak_web-2__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/country-fried-steak_web-2__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/country-fried-steak_web-2__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/country-fried-steak_web-2__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/country-fried-steak_web-2__slider_lazy_xl.jpg"
+							},
+						
+						
+					
+					
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/david-crockett-restaurant.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/david-crockett-restaurant__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/david-crockett-restaurant__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/david-crockett-restaurant__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/david-crockett-restaurant__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/david-crockett-restaurant__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/david-crockett-restaurant__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/david-crockett-restaurant__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5682/david-crockett-restaurant__slider_lazy_xl.jpg"
+							}
+						]
+			},
+  
+			{
+				"title": "Homestead Harvest Restaurant",
+				"url_title": "Cumberland-Mountain",
+				"short_name": "Cumberland Mountain",
+				"restaurant_summary": "<p>Homestead Harvest Restaurant&nbsp;offers American dining cuisine in Crossville, Tennessee. The restaurant is located inside Cumberland Mountain State Park.&nbsp;</p>",
+				"restaurant_description": "<p>Located on scenic Byrd Lake, the Homestead Harvest Restaurant serves a variety of family favorites. Whether stopping in for a cold beverage after a hike or something more substantial we hope to see you soon. </p>",
+				"restaurant_images": 
+					
+					[
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/1367_40555dm-2.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/1367_40555dm-2__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/1367_40555dm-2__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/1367_40555dm-2__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/1367_40555dm-2__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/1367_40555dm-2__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/1367_40555dm-2__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/1367_40555dm-2__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/1367_40555dm-2__slider_lazy_xl.jpg"
+							},
+						
+						
+					
+					
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/1413_40555dm-2.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/1413_40555dm-2__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/1413_40555dm-2__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/1413_40555dm-2__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/1413_40555dm-2__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/1413_40555dm-2__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/1413_40555dm-2__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/1413_40555dm-2__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/1413_40555dm-2__slider_lazy_xl.jpg"
+							},
+						
+						
+					
+					
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/cumberland_mountain_restaurant_3a-2.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/cumberland_mountain_restaurant_3a-2__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/cumberland_mountain_restaurant_3a-2__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/cumberland_mountain_restaurant_3a-2__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/cumberland_mountain_restaurant_3a-2__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/cumberland_mountain_restaurant_3a-2__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/cumberland_mountain_restaurant_3a-2__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/cumberland_mountain_restaurant_3a-2__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/cumberland_mountain_restaurant_3a-2__slider_lazy_xl.jpg"
+							},
+						
+						
+					
+					
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/homestead_harvest_patio-2.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/homestead_harvest_patio-2__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/homestead_harvest_patio-2__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/homestead_harvest_patio-2__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/homestead_harvest_patio-2__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/homestead_harvest_patio-2__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/homestead_harvest_patio-2__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/homestead_harvest_patio-2__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/homestead_harvest_patio-2__slider_lazy_xl.jpg"
+							},
+						
+						
+					
+					
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/restaurant1-2.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/restaurant1-2__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/restaurant1-2__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/restaurant1-2__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/restaurant1-2__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/restaurant1-2__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/restaurant1-2__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/restaurant1-2__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5683/restaurant1-2__slider_lazy_xl.jpg"
+							}
+						]
+			},
+  
+			{
+				"title": "Marker 66 Marina & Grille",
+				"url_title": "marker-66-marina-grille",
+				"short_name": null,
+				"restaurant_summary": null,
+				"restaurant_description": "<p>Marker 66 at the Paris Landing Marina is open for dine-in and takeout Thursday-Sunday. Our hours are Thursday and Sunday from 11 am to 8 pm and Friday and Saturday from 11 am to 9  pm.  (Please note that the kitchen closes 15 minutes prior to the restaurant's closing time.)  To place a to-go order, view our special <a href=\"http://tnstateparks.com/assets/pdf/additional-content/TO_GO_MENU.pdf\">to-go menu</a> and simply call the restaurant at 731-641-4474.</p><p>Please note that Marker 66 will be closing for the off season beginning on October 26, 2020.  We look forward to seeing you when we reopen in March 2021.</p><p>Located at the marina at Paris Landing State Park, Marker 66 Marina & Grille offers lunch and dinner on the water! This full-service restaurant and bar has one of the best views on Kentucky Lake. Our menu favorites include various taco options, fried green tomatoes, crab cakes, and much more! Stop by and join us soon!</p><p>Follow our <a href=\"https://www.facebook.com/marker66marinagrille/\">Facebook page</a> for updates.</p>",
+				"restaurant_images": 
+					
+					[
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_1.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_1__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_1__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_1__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_1__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_1__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_1__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_1__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_1__slider_lazy_xl.jpg"
+							},
+						
+						
+					
+					
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_4.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_4__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_4__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_4__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_4__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_4__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_4__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_4__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_4__slider_lazy_xl.jpg"
+							},
+						
+						
+					
+					
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_building_front_paris_landing_state_park_5.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_building_front_paris_landing_state_park_5__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_building_front_paris_landing_state_park_5__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_building_front_paris_landing_state_park_5__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_building_front_paris_landing_state_park_5__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_building_front_paris_landing_state_park_5__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_building_front_paris_landing_state_park_5__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_building_front_paris_landing_state_park_5__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_building_front_paris_landing_state_park_5__slider_lazy_xl.jpg"
+							},
+						
+						
+					
+					
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_2.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_2__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_2__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_2__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_2__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_2__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_2__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_2__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_2__slider_lazy_xl.jpg"
+							},
+						
+						
+					
+					
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_3.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_3__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_3__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_3__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_3__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_3__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_3__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_3__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5677/marker_66_paris_landing_state_park_3__slider_lazy_xl.jpg"
+							}
+						]
+			},
+  
+			{
+				"title": "The Restaurant at Fall Creek Falls",
+				"url_title": "fall-creek-falls",
+				"short_name": "Fall Creek Falls",
+				"restaurant_summary": "<p>The new 85-room Lodge at Fall Creek Falls will provide hotel and resort vacations featuring modern room design, conference space, a full-service restaurant and lounge overlooking the natural beauty of Fall Creek Lake.</p>",
+				"restaurant_description": "<p>Check back soon for more information about The Restaurant at Fall Creek Falls!</p>",
+				"restaurant_images": 
+					
+					[
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5673/under-renovation-2.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5673/under-renovation-2__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5673/under-renovation-2__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5673/under-renovation-2__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5673/under-renovation-2__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5673/under-renovation-2__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5673/under-renovation-2__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5673/under-renovation-2__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5673/under-renovation-2__slider_lazy_xl.jpg"
+							}
+						]
+			},
+  
+			{
+				"title": "The Restaurant at Henry Horton",
+				"url_title": "henry-horton",
+				"short_name": "Henry Horton",
+				"restaurant_summary": "<p>The Restaurant&nbsp;and&nbsp;Lounge at Henry Horton State Park are temporarily closed as the park transitions the space to a rental facility in anticipation of a new restaurant opening mid-2021.&nbsp;</p>",
+				"restaurant_description": "<h4><strong>Temporary Restaurant Closure</strong></h4><p>The Restaurant at Henry Horton is temporarily closed until mid-2021. The park is in the process of contructing and opening a brand new restaurant facility at the park. This is an exciting new chapter in the park's history, and will provide a quality dining experience for visitors and the community. We do apologize for any inconvenience this causes.</p><h4>Where can we eat when visiting the park during the temporary closure?</h4><p>Park visitors looking for snacks and refreshments can still find them at the golf course snack bar, or at one of the many gas stations, convenience stores, or restaurants in nearby Chapel Hill, Tennessee. Visitors are also welcome to bring food and dine at one of the picnic tables found throughout the park. </p><h4>Catering and Event Space</h4><p>The building formerly housing the Restaurant at Henry Horton is converting to a rentable event space. The park will still offer on-site and off-site catering from the kitchen in this facility. The park can provide a full bar setup, desserts, hors d'oeuvres, and so much more!</p><p>Groups will also be able to rent and utilize this facility. To learn more, visit the <a href=\"/lodges/venues/henry-horton\">Venues page</a>. Book your wedding, family reunion, company outing, or small conference with us! In addition to the former restaurant space, groups can rent our lodge, outdoor pavilions, or other event spaces.</p><p>For more information about booking event spaces and menu planning, please call (931) 364-8207.</p>",
+				"restaurant_images": 
+					
+					[
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5681/hh-new-restaurant-courtyard-view-01_fb_size.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5681/hh-new-restaurant-courtyard-view-01_fb_size__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5681/hh-new-restaurant-courtyard-view-01_fb_size__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5681/hh-new-restaurant-courtyard-view-01_fb_size__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5681/hh-new-restaurant-courtyard-view-01_fb_size__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5681/hh-new-restaurant-courtyard-view-01_fb_size__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5681/hh-new-restaurant-courtyard-view-01_fb_size__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5681/hh-new-restaurant-courtyard-view-01_fb_size__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5681/hh-new-restaurant-courtyard-view-01_fb_size__slider_lazy_xl.jpg"
+							},
+						
+						
+					
+					
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5681/under-renovation-graphic.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5681/under-renovation-graphic__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5681/under-renovation-graphic__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5681/under-renovation-graphic__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5681/under-renovation-graphic__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5681/under-renovation-graphic__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5681/under-renovation-graphic__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5681/under-renovation-graphic__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5681/under-renovation-graphic__slider_lazy_xl.jpg"
+							}
+						]
+			},
+  
+			{
+				"title": "The Restaurant at Montgomery Bell",
+				"url_title": "montgomery-bell",
+				"short_name": "Montgomery Bell",
+				"restaurant_summary": "<p>The Restaurant Montgomery Bell is located&nbsp;inside Montgomery Bell State Park near Dickson, TN. The restaurant and balcony patio overlook Acorn Lake, providing a tranquil and scenic dining and lounge environment.&nbsp;</p>",
+				"restaurant_description": "<p>The Restaurant at Montgomery Bell State Park is a full-service, family-friendly restaurant serving breakfast, lunch, and dinner, seven days a week. We are approximately 40 miles west of Nashville, in Burns.</p><p>Our menu offers classic favorites like Hot Chicken and Waffles to Caesar Salad. And be sure to try the popular house-made potato chips. Our beverage selections feature local and Tennessee spirits and wines, perfect for winding down after a day on the trail.</p><h4>Montgomery Bell Catering</h4><p>With years of experience catering large and small events, our staff will put your mind at ease. From fried chicken and bbq at the Acorn Lake Pavilion to formal plated dinners, our team is available for on-site and off-site catering. The menus in our <a href=\"https://tnstateparks.com/assets/pdf/additional-content/montgomery-bell_banquet-guide.pdf\">Banquet and Event Guide</a> are only suggestions. We will be glad to custom design a menu to best suit your needs. Creativity is our specialty! A banquet coordinator is on-site to help with planning all of your group needs.</p><p><a href=\"https://tnstateparks.com/assets/pdf/additional-content/montgomery-bell_banquet-guide.pdf\">Banquet and Event Guide</a></p>",
+				"restaurant_images": 
+					
+					[
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_lounge_drinks_slider_lazy_xl.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_lounge_drinks_slider_lazy_xl__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_lounge_drinks_slider_lazy_xl__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_lounge_drinks_slider_lazy_xl__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_lounge_drinks_slider_lazy_xl__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_lounge_drinks_slider_lazy_xl__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_lounge_drinks_slider_lazy_xl__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_lounge_drinks_slider_lazy_xl__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_lounge_drinks_slider_lazy_xl__slider_lazy_xl.jpg"
+							},
+						
+						
+					
+					
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_restaurant_1_slider_lazy_xl.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_restaurant_1_slider_lazy_xl__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_restaurant_1_slider_lazy_xl__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_restaurant_1_slider_lazy_xl__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_restaurant_1_slider_lazy_xl__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_restaurant_1_slider_lazy_xl__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_restaurant_1_slider_lazy_xl__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_restaurant_1_slider_lazy_xl__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_restaurant_1_slider_lazy_xl__slider_lazy_xl.jpg"
+							},
+						
+						
+					
+					
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_patio_slider_lazy_xl.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_patio_slider_lazy_xl__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_patio_slider_lazy_xl__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_patio_slider_lazy_xl__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_patio_slider_lazy_xl__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_patio_slider_lazy_xl__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_patio_slider_lazy_xl__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_patio_slider_lazy_xl__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_patio_slider_lazy_xl__slider_lazy_xl.jpg"
+							},
+						
+						
+					
+					
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/montgomery-bell_salad.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/montgomery-bell_salad__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/montgomery-bell_salad__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/montgomery-bell_salad__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/montgomery-bell_salad__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/montgomery-bell_salad__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/montgomery-bell_salad__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/montgomery-bell_salad__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/montgomery-bell_salad__slider_lazy_xl.jpg"
+							},
+						
+						
+					
+					
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_loung_full_slider_lazy_xl.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_loung_full_slider_lazy_xl__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_loung_full_slider_lazy_xl__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_loung_full_slider_lazy_xl__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_loung_full_slider_lazy_xl__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_loung_full_slider_lazy_xl__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_loung_full_slider_lazy_xl__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_loung_full_slider_lazy_xl__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_loung_full_slider_lazy_xl__slider_lazy_xl.jpg"
+							},
+						
+						
+					
+					
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_restaurant_2_slider_lazy_xl.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_restaurant_2_slider_lazy_xl__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_restaurant_2_slider_lazy_xl__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_restaurant_2_slider_lazy_xl__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_restaurant_2_slider_lazy_xl__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_restaurant_2_slider_lazy_xl__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_restaurant_2_slider_lazy_xl__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_restaurant_2_slider_lazy_xl__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_restaurant_2_slider_lazy_xl__slider_lazy_xl.jpg"
+							},
+						
+						
+					
+					
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_restaurant_takeout_slider_lazy_xl.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_restaurant_takeout_slider_lazy_xl__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_restaurant_takeout_slider_lazy_xl__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_restaurant_takeout_slider_lazy_xl__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_restaurant_takeout_slider_lazy_xl__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_restaurant_takeout_slider_lazy_xl__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_restaurant_takeout_slider_lazy_xl__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_restaurant_takeout_slider_lazy_xl__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5670/lmb_restaurant_takeout_slider_lazy_xl__slider_lazy_xl.jpg"
+							}
+						]
+			},
+  
+			{
+				"title": "The Restaurant at Natchez Trace",
+				"url_title": "natchez-trace",
+				"short_name": "Natchez Trace",
+				"restaurant_summary": null,
+				"restaurant_description": "<p>The Restaurant at Natchez Trace is a great place to reunite with friends and family over a meal. The restaurant serves Southern-style cuisine and seats 150 people. Friday night features a Seafood Buffet and Saturday we feature BBQ, Pork Spark Ribs, Chicken Leg Quarters, and Catfish. We offer a selection of wines by the glass or bottle, domestic and imported beer, and mixed drinks. </p><h5>Guidelines For Seating</h5><p>Tables are limited to no more than 10 people at one table. Please visit our <a href=\"https://tnstateparks.com/about/keeping-visitors-healthy\">Keeping Visitors Healthy page</a> for tips and information on visiting. We also ask that you social distance and please do not attend if: you have been in contact with a confirmed case of COVID-19 or if you have had any of the following symptoms: cough, shortness of breath, sore throat, a new loss of taste or smell, fever in the last 48 hours. Thank you!</p><h5>Catering</h5><p>Box lunches and catering are available for breaks, banquets, and cookouts throughout the park. Groups may contract a full breakfast with prior arrangements. For more info, please call the restaurant at 731-968-8176.</p><p><a href=\"https://tnstateparks.com/assets/pdf/additional-content/NT_Banquet_and_Event_Guide.pdf\">View Catering and Banquet Guide</a></p>",
+				"restaurant_images": 
+					
+					[
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5679/1553_40589dm-2.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5679/1553_40589dm-2__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5679/1553_40589dm-2__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5679/1553_40589dm-2__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5679/1553_40589dm-2__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5679/1553_40589dm-2__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5679/1553_40589dm-2__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5679/1553_40589dm-2__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5679/1553_40589dm-2__slider_lazy_xl.jpg"
+							},
+						
+						
+					
+					
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5679/1447_40589dm-2.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5679/1447_40589dm-2__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5679/1447_40589dm-2__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5679/1447_40589dm-2__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5679/1447_40589dm-2__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5679/1447_40589dm-2__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5679/1447_40589dm-2__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5679/1447_40589dm-2__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5679/1447_40589dm-2__slider_lazy_xl.jpg"
+							},
+						
+						
+					
+					
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5679/1515_40589dm-2.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5679/1515_40589dm-2__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5679/1515_40589dm-2__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5679/1515_40589dm-2__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5679/1515_40589dm-2__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5679/1515_40589dm-2__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5679/1515_40589dm-2__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5679/1515_40589dm-2__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5679/1515_40589dm-2__slider_lazy_xl.jpg"
+							}
+						]
+			},
+  
+			{
+				"title": "The Restaurant at Paris Landing",
+				"url_title": "paris-landing",
+				"short_name": "Paris Landing",
+				"restaurant_summary": null,
+				"restaurant_description": "<p><strong>Coming 2021!</strong></p><p>The Restaurant at Paris Landing State Park will offer a full-service restaurant, bar and lounge. Guest will enjoy a warm meal or craft cocktail while looking out over the Tennessee River and Kentucky Lake. The restaurant will serve breakfast, lunch and dinner when it opens in Fall 2021. More details coming soon.</p>",
+				"restaurant_images": 
+					
+					[
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5675/under-renovation-2.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5675/under-renovation-2__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5675/under-renovation-2__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5675/under-renovation-2__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5675/under-renovation-2__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5675/under-renovation-2__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5675/under-renovation-2__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5675/under-renovation-2__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5675/under-renovation-2__slider_lazy_xl.jpg"
+							}
+						]
+			},
+  
+			{
+				"title": "The Restaurant at Pickwick Landing",
+				"url_title": "pickwick-landing",
+				"short_name": "Pickwick Landing",
+				"restaurant_summary": null,
+				"restaurant_description": "<h3>Newly Renovated & Now Open</h3><p>The Restaurant at Pickwick Landing State Park, located inside <a href=\"https://tnstateparks.com/lodges/pickwick-landing\">Lodge Pickwick Landing</a>, has just finished a complete renovation. The new space features a full-service restaurant, bar, and lounge where guests can enjoy a warm meal or craft cocktail while looking out over Pickwick Lake and Pickwick Dam. The Restaurant at Pickwick Landing is open daily to park visitors and lodge guests for breakfast, lunch, and dinner.</p><h3>Pickwick Landing Catering</h3><p>Catering is available through The Restaurant at Pickwick Landing. You can view our Banquet and Event Guide <a href=\"https://tnstateparks.com/assets/pdf/additional-content/PWL_Banquet_and_Event_Guide.pdf\">here</a>. For more information and menu planning, please call 731-689-3135.</p><p>For more information about having an event at Pickwick Landing, please fill out our <a href=\"https://tnstateparks.com/groups/form\">Event Information Request Form</a> or call our group reservationist at 800-250-8612.</p><h3>Explore Beyond The Restaurant</h3><p><strong>Lodge Pickwick Landing. </strong>The newly renovated 117 room Lodge at Pickwick Landing is the perfect location for your next getaway. You'll find comfortable modern rooms with private balconies overlooking Pickwick Lake, an outdoor pool, on-site marina, and easy access to outdoor activities like golfing, boating, fishing, and more. With over 1,000 acres surrounding the lodge, there's plenty of space to explore and create a vacation that fits your style.</p><p><a class=\"button\" href=\"https://tnstateparks.com/lodges/pickwick-landing\">Explore the Lodge</a></p><p><strong>Pickwick Landing State Park. </strong>Outdoor adventure and relaxation await on the shores of Pickwick Lake. The park offers an 18-hole golf course, boating, paddling, nature trails, fishing, and a swim beach to explore. Lakeside cabins and campsites make the perfect home base for your adventures and can be <a href=\"https://reserve.tnstateparks.com/pickwick-landing/type\">reserved online</a>.</p><p><a class=\"button\" href=\"https://tnstateparks.com/parks/pickwick-landing\">Explore the Park</a></p>",
+				"restaurant_images": 
+					
+					[
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/lpwl-dining-room.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/lpwl-dining-room__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/lpwl-dining-room__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/lpwl-dining-room__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/lpwl-dining-room__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/lpwl-dining-room__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/lpwl-dining-room__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/lpwl-dining-room__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/lpwl-dining-room__slider_lazy_xl.jpg"
+							},
+						
+						
+					
+					
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/lpwl-lounge-dining.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/lpwl-lounge-dining__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/lpwl-lounge-dining__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/lpwl-lounge-dining__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/lpwl-lounge-dining__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/lpwl-lounge-dining__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/lpwl-lounge-dining__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/lpwl-lounge-dining__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/lpwl-lounge-dining__slider_lazy_xl.jpg"
+							},
+						
+						
+					
+					
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/lpwl-dining-patio.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/lpwl-dining-patio__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/lpwl-dining-patio__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/lpwl-dining-patio__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/lpwl-dining-patio__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/lpwl-dining-patio__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/lpwl-dining-patio__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/lpwl-dining-patio__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/lpwl-dining-patio__slider_lazy_xl.jpg"
+							},
+						
+						
+					
+					
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food1.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food1__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food1__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food1__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food1__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food1__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food1__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food1__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food1__slider_lazy_xl.jpg"
+							},
+						
+						
+					
+					
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food2.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food2__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food2__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food2__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food2__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food2__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food2__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food2__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food2__slider_lazy_xl.jpg"
+							},
+						
+						
+					
+					
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food3.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food3__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food3__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food3__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food3__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food3__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food3__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food3__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food3__slider_lazy_xl.jpg"
+							},
+						
+						
+					
+					
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food5.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food5__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food5__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food5__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food5__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food5__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food5__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food5__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/pickwick-landing-food5__slider_lazy_xl.jpg"
+							},
+						
+						
+					
+					
+							{
+								"url": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/piickwick-landing-food4.jpg",
+								"thumbnail": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/piickwick-landing-food4__thumbnail.jpg",
+								"large": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/piickwick-landing-food4__large.jpg",
+								"lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/piickwick-landing-food4__index_lazy_xs.jpg",
+								"lazy_sm": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/piickwick-landing-food4__index_lazy_sm.jpg",
+								"slider_lazy_xs": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/piickwick-landing-food4__slider_lazy_xs.jpg",
+								"slider_lazy_md": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/piickwick-landing-food4__slider_lazy_md.jpg",
+								"slider_lazy_lg": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/piickwick-landing-food4__slider_lazy_lg.jpg",
+								"slider_lazy_xl": "https://tnstateparks.com/assets/images/hero-images/social_media_images/lodges/restaurant/5676/piickwick-landing-food4__slider_lazy_xl.jpg"
+							}
+						]
+			},
+  
+			{
+				"title": "The Restaurants at Tennessee State Parks",
+				"url_title": "the-restaurants",
+				"short_name": null,
+				"restaurant_summary": "<p>Discover the restaurants locating inside Tennessee State Parks and enjoy a dining experience in a natural surrounding.</p>",
+				"restaurant_description": "<p>Enjoy casual dining in a relaxed and comfortable atmosphere. Designed to satisfy hungry visitors, our state park restaurants are great places to meet for a holiday meal, quench your thirst after an invigorating hike or gather the family for a simple Sunday dinner.</p><p>Serving American standards and regional favorites, menu items vary from restaurant to restaurant. Our Southern-style, buffets feature a fresh salad bar, a variety of entrees and our signature banana pudding. To compliment your meal, a selection of wines by the glass or bottle are available as well as cocktails and domestic, imported and craft beer, with the exception of David Crockett which does not offer beer.</p>",
+				"restaurant_images": "null"
+						
+			}
+	]
+}

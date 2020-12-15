@@ -1,0 +1,92 @@
+page-privacy-policy-modal {
+
+  .policy-back{
+    background-color: rgba(0,0,0,0.5);;
+  }
+
+  .modal-div{
+    margin-top: 28%;
+    margin-left: 6.5%;
+    width: 87%;
+    height: 60%;
+    border-radius: 5px;
+    background-color: white;
+  }
+
+  .top-holder {
+    border: 1px solid #e6e1e1;
+    border-radius: 5px;
+    margin: 18px;
+    padding: 10px;
+  }
+
+  .bold-header {
+    font-weight: bold;
+    color: #B08485;
+  }
+
+  .bottom-txt-span {
+    font-weight: bold;
+  }
+
+  .top-txt {
+    text-align: left;
+    font-size: 12px;
+    color: gray;
+    margin-left: 20px;
+    margin-top: 0;
+  }
+
+  .document-img{
+    width: 50px;
+    height: 60px;
+    margin-top: 15px;
+  }
+
+  .view-btn{
+    // background-color: #B08485;
+    text-transform: none;
+    margin-top: -30px;
+    font-size: 12px;
+  }
+
+  .chk-box-item {
+    width: 90%;
+    margin-left: 5%;
+  }
+
+  .chk-box{
+    --background-checked: #B08485;
+    margin: -25px 9px 9px 4px !important;
+  }
+
+  .bottom-txt {
+    font-size: 12px;
+    color: gray;
+  }
+
+  .agree-div{
+    margin-top: 15px;
+  }
+
+  .agree-txt{
+    // margin-right: 15px;
+    color: #B08485;
+    font-weight: bold;
+    display: inline;
+    vertical-align: middle; 
+  }
+
+  .agree-btn{
+    width: 40px;
+    height: 40px;
+    vertical-align: middle; 
+    display: inline;
+  }
+  
+  .continue-div{
+    margin-right: 15px;
+    margin-top: 15px;
+  }
+
+}

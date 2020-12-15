@@ -1,0 +1,35 @@
+<ion-header>
+  <ion-icon class="register-back-btn" name="arrow-back" (click)="back()"></ion-icon>
+  <ion-title>Create an Account</ion-title>
+  <h4 (click)="gotohomepage()">Skip</h4>
+</ion-header>
+<ion-content padding>
+
+
+
+  <div style="margin-top: -4vh;" text-center>
+
+    <p class="titlebig" >Create an Account</p>
+    <p class="title" >With an account, you can favorite parks and lodges</p>
+
+    <ion-item class="name-item" padding >
+      <ion-label>First Name</ion-label>
+      <ion-input  class="name-input" type="text" [(ngModel)]="firstname"></ion-input>
+    </ion-item>
+
+    <ion-item class="name-item" padding >
+      <ion-label>Last Name</ion-label>
+      <ion-input  class="name-input" type="text" [(ngModel)]="lastname"></ion-input>
+    </ion-item>
+
+    <ion-item class="name-item" padding >
+      <ion-label>Email</ion-label>
+      <ion-input  class="name-input" type="text" [(ngModel)]="email"></ion-input>
+    </ion-item>
+
+    <button ion-button class="bottom-button-gray" (click)="next()" *ngIf="showbutton1">Create my Account</button>
+    <button ion-button class="bottom-button-green" (click)="gotohomepage()" *ngIf="showbutton2">Start Exploring Tennessee Parks</button>
+
+  </div>
+
+</ion-content>

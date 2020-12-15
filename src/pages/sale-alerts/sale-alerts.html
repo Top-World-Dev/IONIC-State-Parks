@@ -1,0 +1,26 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>Sale Alerts</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+
+  <ion-list>
+    <ng-container *ngFor="let sale of sales">
+      <ion-item no-lines (click)="goToDetailsPage(sale)">
+        <ion-thumbnail item-start>
+          <img [src]="sale.Store.ImageUrl">
+        </ion-thumbnail>
+        <h2>{{sale.Name}}</h2>
+        <p>{{sale.Description}}</p>
+        <h4 class="sale-label" item-end>{{sale.SaleLabel.Label}}</h4>
+      </ion-item>
+      <hr/>
+    </ng-container>
+  </ion-list>
+
+</ion-content>

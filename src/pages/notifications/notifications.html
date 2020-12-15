@@ -1,0 +1,56 @@
+<ion-header>
+  <ion-navbar>
+    <button class="btns" buttons-left>
+      <img class="logo" src="assets/img/logo.png">
+    </button>
+    <!-- <ion-buttons end>
+      <button end ion-button icon-only menuToggle>
+        <ion-icon class="dots" name="md-more"></ion-icon>
+      </button>
+    </ion-buttons> -->
+  </ion-navbar>
+</ion-header>
+
+
+<ion-content>
+
+  <ion-refresher (ionRefresh)="doRefresh($event)">
+    <ion-refresher-content pullingIcon="arrow-dropdown" pullingText="Pull to refresh" refreshingSpinner="circles" refreshingText="Refreshing...">
+    </ion-refresher-content>
+  </ion-refresher>
+
+
+  <ion-list no-lines no-padding>
+
+    <ng-container *ngFor="let notification of notifications">
+      <ion-item-sliding>
+        <ion-item (click)="goToProductDetails(notification)">
+
+          <ion-avatar item-start>
+            <img class="notification-image" src="assets/img/notification-icon.png">
+          </ion-avatar>
+          <div class="notification-mid">
+            <h5 class="notification-msg">
+              <b>{{notification.Message}}</b>
+            </h5>
+            <p class="notification-text prod-title">{{notification.ProductTitle}}</p>
+            <p class="notification-text prod-store">available on {{notification.StoreName}} store</p>
+            <p class="noti-time">{{notification.DateTime}}</p>
+          </div>
+          <div item-end>
+            <ion-avatar class="noti-prod-image">
+              <img class="right-img" [src]="notification.ProductPost?.ProductPostImages[0]?.ImageUrl">
+            </ion-avatar>
+            <p class="noti-price">AED {{notification.ProductPost?.Price}}</p>
+          </div>
+        </ion-item>
+        <ion-item-options side="right">
+          <button ion-button color="dark" (click)="deleteNotification(notification)">
+            Delete
+          </button>
+        </ion-item-options>
+      </ion-item-sliding>
+      <hr style="color: black; height: 1px;;" />
+    </ng-container>
+  </ion-list>
+</ion-content>

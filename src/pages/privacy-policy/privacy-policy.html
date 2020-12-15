@@ -1,0 +1,21 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>PrivacyPolicy</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+
+  <div text-center>
+    <h4>Policy</h4>
+    <p>{{policy?.Text}}</p>
+  </div>
+
+
+</ion-content>
+<ion-footer>
+  <button block ion-button color="dark" clear (click)="agree()" >Agree</button>
+</ion-footer>

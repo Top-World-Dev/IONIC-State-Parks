@@ -1,0 +1,42 @@
+<!-- Generated template for the ProductPostComponent component -->
+<div class="prod-post" *ngIf="!product.Expired">
+  <!--image size 385x541-->
+  <div class="container">
+      <!--<img class="heartleft" src="assets/img/Don_t_like_grey_heart_icon.png" (click)="negativeRatingClick(product)">
+      <img class="heartright" src="assets/img/Like_black_heart_icon.png" (click)="positiveRatingClick(product)">-->
+      <img class="img" [img-preloader]="product.ProductPostImages[0].ImageUrl">
+      <!-- <ion-icon *ngIf="saved" class="product-bookmark" name="bookmark" (click)="toggleSavedPost()"></ion-icon>
+      <ion-icon *ngIf="!saved" class="product-bookmark" name="ios-bookmark-outline" (click)="toggleSavedPost()"></ion-icon> -->
+      <!-- <div class="on-sale" *ngIf="product.HasDiscount">On Sale</div> -->
+      <!-- <div class="bottom">{{lookName}}</div> -->
+  </div>
+
+  <p *ngIf="saved" class="saved-label" text-center>SAVED</p>
+  <h5 class="prod-price" *ngIf="!product.HasDiscount">{{currency}} {{product.Price}} </h5>
+  <h5 class="prod-price" *ngIf="product.HasDiscount">
+    <span class="discount-price">{{currency}} {{product.Price}}</span>
+    {{product.PriceAfterDiscount}}
+  </h5>
+  <div class="on-sale"><span *ngIf="product.HasDiscount">On Sale</span></div>
+  <h6 class="prod-brand"><b>{{product.Brand?.Name}}</b></h6>
+  <p class="prod-title" >{{product.Title.length < 30 ? product.Title : product.Title.substr(0, 27) + "..."}}</p>
+  <div class="look-name">{{lookName}}</div>
+  <!-- <h6 class="prod-store" ><b>{{product.Store.Name}}</b></h6> -->
+  <!-- <button ion-button color="dark" full>VIEW</button> -->
+
+<div class="prod-post" *ngIf="product.Expired">
+  <!--image size 385x541-->
+  <div class="container">
+      <img class="heartleft" src="assets/img/Don_t_like_grey_heart_icon.png">
+      <img class="heartright" src="assets/img/Like_black_heart_icon.png">
+      <img class="img" src="assets/img/prod-not-available.png">
+      <!-- <ion-icon *ngIf="saved" class="product-bookmark" name="bookmark" (click)="toggleSavedPost()"></ion-icon> -->
+      <!-- <ion-icon *ngIf="!saved" class="product-bookmark" name="ios-bookmark-outline" (click)="toggleSavedPost()"></ion-icon> -->
+      <!-- <div class="on-sale" *ngIf="product.HasDiscount">On Sale</div>
+      <div class="bottom">{{lookName}}</div> -->
+  </div>
+
+  <p class="prod-not-available">Sorry, product is no longer available.</p>
+
+</div>
+

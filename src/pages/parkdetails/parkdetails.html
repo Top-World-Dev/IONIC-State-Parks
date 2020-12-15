@@ -1,0 +1,258 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title></ion-title>
+  </ion-navbar>
+</ion-header>
+<!-- <div *ngIf="!quizPending"  text-center class="suggestion-container" id="suggestion_container">
+    <button ion-button color="light" fill="solid" outline round class="btn-suggestion">Suggestion Feed</button>  
+</div> -->
+<!-- <div *ngIf="!quizPending" class="message" id="profile_message" type="overlay">
+  <div text-center><img class="icon-a-c" src="assets/img/icon_pg_3.png" /></div>
+  <h1>Success!</h1>
+  <p>Awesome, your fashion profile<br />is all setup and your first fashion<br /> recommendations are ready for<br/>you to view!</p>
+  <button ion-button color="light" fill="solid" outline round class="btn-okay" (click)="Okay()">Okay</button>
+</div> -->
+<ion-content class="ion-content-below-my-title">
+  <div class="toppart">
+    <div class="topdiv">
+      <img src="assets/img/backarrow.png" class="topbackbutton" (click)="back()" />
+      <h1 class="topheading">Park Details</h1>
+      <h3 class="topfilter">Filters</h3>
+    </div>
+    
+  </div>
+  <div class="midbuttons" *ngIf="LoadingView==true">
+    <!-- {{parksData[0].imageURL}} -->
+      
+        <img src="{{park.hero_image.app}}">
+        <div class="alertsbar" tappable (click)="showalertspage()">
+            <img src="assets/img/bellicon.png" class="bellicon">
+            <span class="label1">{{park.park_alerts.length}}&nbsp;&nbsp;Park Alerts : </span>
+            <span class="label2">Know before you go exploring</span>
+            <img class="label3" src="assets/img/whitemenuarrow.png">
+        </div>
+        <div class="parktitlediv">
+          <div style="width: 100%; display: inline-flex;">
+          <h2 class="parktitle">{{park.title}}</h2>
+          <img src="{{hearticonurl}}" class="heart" (click)="setfavourite()">
+          </div>
+          <div style="width: 100%; display: inline-flex;">
+          <h3 class="parkaddress">{{park.park_addresses[0].street}}</h3> 
+          <div *ngIf="hasphone" class="phonediv"><a href="{{phonenumber}}" class="phonelink">
+            <img src="assets/img/phoneicon.png" class="phoneicon">
+            <h5 class="parkaddress">{{phonenumber}}</h5></a></div>
+          </div>
+          <h3 class="parkaddress">{{park.park_addresses[0].city}}, {{park.park_addresses[0].state}}</h3> 
+          <hr>
+          <div class="parksummary">{{park.summary}}</div> 
+          <div id="map_canvas">
+            <img src="assets/img/mapimage.png" class="mapimage">
+          </div>
+          <button ion-button class="bottom-button-green" (click)="gotohomepage()">
+            <img src="assets/img/directionsicongreen.png" style="margin-right: 3vw;">
+            Get Directions
+          </button>
+        </div>
+  <div class="overnight">
+        <div style="text-align: center; padding-top: 20px; padding-bottom: 15px; display: inline-flex; width:100%;">
+          <img src="assets/img/overnight.png" class="overnighticon">
+          <h1>Overnight Stays</h1>
+        </div>
+  <div class="scrolling-wrapper">
+    <ion-grid style="width: 500px;">
+      <ion-row>
+        <ion-col style="height: 250px; width: 191px;">
+          <button ion-button class="btnovernight1" (click)="viewallcabins(park)">
+            <h4>Cabins</h4>
+            Details+Reservations&nbsp;&nbsp;&nbsp;>
+          </button>
+          
+        </ion-col>
+        <ion-col>
+          
+            <button ion-button class="btnovernight2" (click)="viewalllodges(park)">
+              <h4>Lodges</h4>
+              Details+Reservations&nbsp;&nbsp;&nbsp;>
+            </button>
+            
+        </ion-col>
+        
+      </ion-row>
+
+      
+      
+    </ion-grid>
+  </div>
+</div>
+
+
+<div class="events">
+  <div style="text-align: center; padding-top: 20px; padding-bottom: 15px; display: inline-flex; width:100%;">
+    <h1 style="margin-left: 4vw;">Events</h1>
+    <h4 style="position: absolute; right: 2vw; font-size: 1.5rem;margin-top: 4vh" (click)="viewallevents()">View All&nbsp;&nbsp;&nbsp;></h4>
+  </div>
+<div class="scrolling-wrapper">
+<ion-grid style="width: 500px;">
+<ion-row>
+  <ion-col style="height: 125px; width: 191px;">
+
+    <button ion-button class="btnevent"  *ngFor="let event of events" (click)="goToEventDetails(event)">
+      <h3>{{event.StartDateRead | date: 'MMM dd' }}</h3>
+      <h4>{{event.Title}}</h4>
+    </button>
+    <h2 *ngIf="events.length<=0" style="width: 100%; text-align: center;">No Events</h2>
+    <!-- <button ion-button class="btnevent">
+      <h3>Nov 14</h3>
+      <h4>Enviornment Education Program</h4>
+    </button>
+    <button ion-button class="btnevent">
+      <h3>Nov 14</h3>
+      <h4>Enviornment Education Program</h4>
+    </button> -->
+    
+  </ion-col>
+
+</ion-row>
+
+
+
+</ion-grid>
+</div>
+</div>
+
+<div style="background-color: #EDF5FF; padding-top: 10px;  padding-bottom: 10px;">
+  <div style="text-align: left; margin-top: 10px; margin-bottom: 10px; margin-left: 5vw;"><h1>Activities</h1></div>
+  <div class="scrolling-wrapper">
+    <ion-grid style="width: 500px;">
+      <ion-row>
+        <ion-col>
+          <button ion-button class="btnsearchby1">
+          </button>
+          <span>Bike Trails</span>
+        </ion-col>
+        <ion-col>
+          
+            <button ion-button class="btnsearchby2">
+            </button>
+            <span>Disc Golf</span>
+        </ion-col>
+        <ion-col>
+          <button ion-button class="btnsearchby3">
+          </button>
+          <span style="display: inline-flex;">RV Friendly<br>Composites</span>
+        </ion-col>
+      </ion-row>
+
+      <ion-row>
+        <ion-col>
+          <button ion-button class="btnsearchby4">
+          </button>
+          <span>Birding</span>
+        </ion-col>
+        <ion-col>
+          
+            <button ion-button class="btnsearchby5">
+            </button>
+            <span>Fishing</span>
+        </ion-col>
+        <ion-col>
+          <button ion-button class="btnsearchby6">
+          </button>
+          <span style="display: inline-flex;">RV Friendly<br>Composites</span>
+        </ion-col>
+      </ion-row>
+
+      <ion-row>
+        <ion-col>
+          <button ion-button class="btnsearchby7">
+          </button>
+          <span>Boat Rentals</span>
+        </ion-col>
+        <ion-col>
+          
+            <button ion-button class="btnsearchby8">
+            </button>
+            <span>Golfing</span>
+        </ion-col>
+        <ion-col>
+          <button ion-button class="btnsearchby9">
+          </button>
+          <span style="display: inline-flex;">RV Friendly<br>Composites</span>
+        </ion-col>
+      </ion-row>
+      
+    </ion-grid>
+  </div>
+  <div style="text-align: left; padding-top: 20px; padding-bottom: 10px; padding-left: 5vw; background-color: white;"><h1>Amenities</h1></div>
+  <div class="scrolling-wrapper" style="background-color: white;">
+    <ion-grid style="width: 500px;">
+      <ion-row>
+        <ion-col>
+          <button ion-button class="btnamenities1">
+            Boat Ramps
+          </button>
+          
+        </ion-col>
+        <ion-col>
+          
+            <button ion-button class="btnamenities2">
+              Laundry
+            </button>
+            
+        </ion-col>
+        <ion-col>
+          <button ion-button class="btnamenities3">
+              Museums
+          </button>
+          
+        </ion-col>
+      </ion-row>
+
+      
+      
+    </ion-grid>
+  </div>
+  <div style="text-align: left; padding-top: 20px; padding-bottom: 10px; padding-left: 5vw; background-color: white;"><h1>Quick Links</h1></div>
+  <div class="scrolling-wrapper" style="background-color: white;">
+    <ion-grid style="width: 500px;">
+      <ion-row>
+        <ion-col>
+          <button ion-button class="btnquicklinks1">
+            State Parks Avenza Maps
+          </button>
+          
+        </ion-col>
+      </ion-row>
+      <ion-row>
+        <ion-col>
+          <button ion-button class="btnquicklinks2">
+            Maps & PDFS
+          </button>
+          
+        </ion-col>
+      </ion-row>
+      <ion-row>
+        <ion-col>
+          <button ion-button class="btnquicklinks3">
+            Contact Information
+          </button>
+          
+        </ion-col>
+      </ion-row>
+
+      
+      
+    </ion-grid>
+  </div>
+  <div style="text-align: center;"><button ion-button class="btndonate"></button></div>
+
+
+</div>
+
+    <!-- <ion-grid class="parks-grid">
+      <ion-row>
+        
+      </ion-row>
+    </ion-grid> -->
+  </div>
+</ion-content>

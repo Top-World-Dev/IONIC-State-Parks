@@ -1,0 +1,40 @@
+<ion-header class="ion-no-border">
+  <ion-toolbar>
+    <img src="assets/img/walkthrucross.png" style="position: absolute; right: 5vw;" (click)="closeme()">
+    <h2 class="slideheading" [innerHTML]="pagetitle"></h2>
+  </ion-toolbar>
+</ion-header>
+<ion-content padding>
+  <ion-item>
+    <ion-slides pager="true" (ionSlideDidChange)="slideChanged()">
+      <ion-slide>
+          
+        <img src="assets/img/wt_a.png" />
+        <div class="slide-1 slid_content">
+          <p class="text" text-center>Find where you are and get alerts about<br> Tennessee State Parks.</p>
+        </div>
+      </ion-slide>
+      <ion-slide>
+        <img src="assets/img/wt_b.png" />
+        <div class="slide-1 slid_content">
+          <p class="text" text-center>Get to what you are looking for faster by<br> filtering topics like available activities,<br>amenities, favorites and more!</p>
+        </div>
+      </ion-slide>
+      <ion-slide>
+        <img src="assets/img/wt_c.png" />
+        <div class="slide-1 slid_content">
+          <p class="text3and4" text-center>many parks offer amazing overnight<br>experiences with cabins, camping and<br>lodging. Get the details and book your<br>next adventure in a TN park.</p>
+        </div>
+      </ion-slide>
+      <ion-slide>
+        <img src="assets/img/wt_d.png" />
+        <div class="slide-1 slid_content">
+          <p class="text3and4" text-center>Love TN parks like we do? When you open<br>the app while visiting a park, you'll earn<br>badges for your TN Park Passport.</p>
+        </div>
+      </ion-slide>
+    </ion-slides>
+    
+  </ion-item>
+  
+</ion-content>  
+<ion-footer><button ion-button class="bottom-button" (click)="register()" *ngIf="showbutton">Start Exploring Tennessee Parks</button></ion-footer>

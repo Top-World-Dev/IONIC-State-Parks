@@ -1,0 +1,6 @@
+{
+  "PROFILE": "Profile",
+  "SETTINGS": "Settings",
+  "HELP": "Help",
+  "data": {"name": "My name is {{name_value}}"}
+}

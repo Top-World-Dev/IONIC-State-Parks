@@ -1,0 +1,48 @@
+page-filter {
+  ion-select {
+    border: 1px solid;
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+  }
+  .all-malls {
+    margin-top: -15px
+  }
+  .filter-icon {
+    font-size: 30px;
+  }
+  .pract {
+    font-style: italic;
+  }
+  .select-icon {
+    //position: inherit;
+  }
+  .filters-icon {
+    width: 30px;
+    height: 30px;
+  }
+  .clear-filter {
+    background-color: lightgray;
+  }
+  .clear-filter span {
+    line-height: 30px;
+    color: white;
+    font-size: 15px;
+  }
+  .title {
+    color: lightgray;
+  }
+  .store-label-deselected {
+    margin-top: -15px;
+    border: 1px solid gray;
+    color: lightgray;
+    text-align: center;
+    line-height: 40px;
+    font-weight: bold;
+    font-size: 75%;
+  }
+  .selected {
+    border: 1px solid black;
+    color: black;
+  }
+}

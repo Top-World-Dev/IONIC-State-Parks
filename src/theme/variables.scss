@@ -1,0 +1,174 @@
+// Ionic Variables and Theming. For more info, please see:
+// http://ionicframework.com/docs/theming/
+
+// Font path is used to include ionicons,
+// roboto, and noto sans fonts
+$font-path: "../assets/fonts";
+
+@font-face {
+  font-family: 'poppins-black';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../assets/fonts/poppins-black.ttf');
+}
+
+// The app direction is used to include
+// rtl styles in your app. For more info, please see:
+// http://ionicframework.com/docs/theming/rtl-support/
+$app-direction: ltr;
+
+
+@import "ionic.globals";
+
+
+// Shared Variables
+// --------------------------------------------------
+// To customize the look and feel of this app, you can override
+// the Sass variables found in Ionic's source scss files.
+// To view all the possible Ionic variables, see:
+// http://ionicframework.com/docs/theming/overriding-ionic-variables/
+$text-input-highlight-color-valid: #222;
+$text-input-md-highlight-color: #A7A7A7;
+$text-input-ios-highlight-color: #A7A7A7;
+
+
+$refresher-border-color: rgb(255, 255, 255);
+
+$tabs-ios-tab-min-height: 60px;
+
+$toolbar-order-ios: (
+  back-button: 0,
+  menu-toggle-start: 1,
+  buttons-left: 2,
+  buttons-start: 3,
+  content: 4,
+  buttons-end: 5,
+  buttons-right: 6,
+  menu-toggle-end: 7,
+);
+// Named Color Variables
+// --------------------------------------------------
+// Named colors makes it easy to reuse colors on various components.
+// It's highly recommended to change the default colors
+// to match your app's branding. Ionic uses a Sass map of
+// colors so you can add, rename and remove colors as needed.
+// The "primary" color is the only required color in the map.
+
+$colors: (
+  primary:    #488aff,
+  secondary:  #32db64,
+  danger:     #f53d3d,
+  light:      #f4f4f4,
+  dark:       #222222,
+  norm:       gray,
+  darkGray:   #a8a8a8,
+);
+
+
+// App iOS Variables
+// --------------------------------------------------
+// iOS only Sass variables can go here
+
+
+
+
+// App Material Design Variables
+// --------------------------------------------------
+// Material Design only Sass variables can go here
+
+
+
+
+// App Windows Variables
+// --------------------------------------------------
+// Windows only Sass variables can go here
+
+
+
+
+// App Theme
+// --------------------------------------------------
+// Ionic apps can have different themes applied, which can
+// then be future customized. This import comes last
+// so that the above variables are used and Ionic's
+// default are overridden.
+
+@import "ionic.theme.default";
+
+
+// Ionicons
+// --------------------------------------------------
+// The premium icon font for Ionic. For more info, please see:
+// http://ionicframework.com/docs/ionicons/
+
+@import "ionicons";
+
+
+// Fonts
+// --------------------------------------------------
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../assets/icon/fonts/icomoon.eot?brde0g');
+  src:  url('../assets/icon/fonts/icomoon.eot?brde0g#iefix') format('embedded-opentype'),
+    url('../assets/icon/fonts/icomoon.ttf?brde0g') format('truetype'),
+    url('../assets/icon/fonts/icomoon.woff?brde0g') format('woff'),
+    url('../assets/icon/fonts/icomoon.svg?brde0g#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'sourcesanspro-semibold';
+  src: url('../assets/fonts/sourcesanspro-semibold');
+  font-weight: 300;
+  font-style: normal;
+}
+
+
+[class^="icon-"],
+[class*=" icon-"],
+[class^="ion-ios-icon"],
+[class*="ion-ios-icon"],
+[class^="ion-md-icon"],
+[class*="ion-md-icon"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  @extend .ion;
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bubble:before {
+  content: "\e96b";
+}
+
+
+@mixin makeIcon($arg, $val) {
+.ion-ios-#{$arg}:before,
+.ion-ios-#{$arg}-circle:before,
+.ion-ios-#{$arg}-circle-outline:before,
+.ion-ios-#{$arg}-outline:before,
+.ion-md-#{$arg}:before,
+.ion-md-#{$arg}-circle:before,
+.ion-md-#{$arg}-circle-outline:before,
+.ion-md-#{$arg}-outline:before {
+  content: $val;
+  font-size: 26px;
+}
+}
+
+@include makeIcon(icon-new-home, '\e911');
+
+@import "roboto";
+@import "noto-sans";
+
+
+$font-family-base: "poppins-black";

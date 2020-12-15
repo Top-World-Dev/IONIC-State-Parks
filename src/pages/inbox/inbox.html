@@ -1,0 +1,178 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title></ion-title>
+  </ion-navbar>
+</ion-header>
+<!-- <div *ngIf="!quizPending"  text-center class="suggestion-container" id="suggestion_container">
+    <button ion-button color="light" fill="solid" outline round class="btn-suggestion">Suggestion Feed</button>  
+</div> -->
+<!-- <div *ngIf="!quizPending" class="message" id="profile_message" type="overlay">
+  <div text-center><img class="icon-a-c" src="assets/img/icon_pg_3.png" /></div>
+  <h1>Success!</h1>
+  <p>Awesome, your fashion profile<br />is all setup and your first fashion<br /> recommendations are ready for<br/>you to view!</p>
+  <button ion-button color="light" fill="solid" outline round class="btn-okay" (click)="Okay()">Okay</button>
+</div> -->
+<ion-content class="ion-content-below-my-title">
+  <div class="toppart">
+    <h1 class="topheading">It's a great day to explore a<br>Tennessee Park.</h1>
+    <ion-list>
+      <ion-item>
+        <ion-input type="text" placeholder="Where are you exploring? City or Park" class="searchinput"></ion-input>
+        <ion-icon class="searchicon" name="search" item-left></ion-icon>
+        
+      </ion-item>
+      
+    </ion-list>
+    <div style="display: inline-flex; width:100%; margin-left: 14vw; margin-top: 1vh;">
+      <ion-icon class="compassicon" name="compass"></ion-icon>
+      <ion-label>Explore Nearby Destinations</ion-label>
+    </div>
+  </div>
+  <div class="midbuttons">
+    <ion-grid>
+      <ion-row>
+        <ion-col>
+          <button ion-button class="btnparkmap" (click)="showparksonmap()">
+          </button>
+        </ion-col>
+        <ion-col>
+          
+            <button ion-button class="btnparklist" (click)="showparkslist()">
+            </button>
+          
+        </ion-col>
+        <ion-col>
+          <button ion-button class="btnevents" (click)="showeventslist()">
+          </button>
+        </ion-col>
+      </ion-row>
+      <ion-row>
+        <ion-col>
+          <button ion-button class="btnovernightstays" (click)="showovernightstays()">
+          </button>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+  </div>
+  <div class="midways">
+    <div style="text-align: center;"><img src="../assets/img/fpo_Asset.png"></div>
+    <div style="text-align: center;"><h1>Popular ways to find your</h1></div>
+    <div class="midbuttons" >
+      <ion-grid>
+        <ion-row>
+          <ion-col>
+            <button ion-button class="btnfpocard1">
+            </button>
+          </ion-col>
+          <ion-col>
+            
+              <button ion-button class="btnfpocard2">
+              </button>
+            
+          </ion-col>
+          <ion-col>
+            <button ion-button class="btnfpocard3">
+            </button>
+          </ion-col>
+        </ion-row>
+        
+      </ion-grid>
+    </div>
+  </div>
+  <div style="background-color: #EDF5FF; padding-top: 10px;  padding-bottom: 10px;">
+  <div style="text-align: center; margin-top: 10px; margin-bottom: 10px;"><h1>Explore by Activities</h1></div>
+  <div class="scrolling-wrapper">
+    <ion-grid style="width: 500px;">
+      <ion-row>
+        <ion-col>
+          <button ion-button class="btnsearchby1">
+          </button>
+          <span>Bike Trails</span>
+        </ion-col>
+        <ion-col>
+          
+            <button ion-button class="btnsearchby2">
+            </button>
+            <span>Disc Golf</span>
+        </ion-col>
+        <ion-col>
+          <button ion-button class="btnsearchby3">
+          </button>
+          <span style="display: inline-flex;">RV Friendly<br>Composites</span>
+        </ion-col>
+      </ion-row>
+
+      <ion-row>
+        <ion-col>
+          <button ion-button class="btnsearchby4">
+          </button>
+          <span>Birding</span>
+        </ion-col>
+        <ion-col>
+          
+            <button ion-button class="btnsearchby5">
+            </button>
+            <span>Fishing</span>
+        </ion-col>
+        <ion-col>
+          <button ion-button class="btnsearchby6">
+          </button>
+          <span style="display: inline-flex;">RV Friendly<br>Composites</span>
+        </ion-col>
+      </ion-row>
+
+      <ion-row>
+        <ion-col>
+          <button ion-button class="btnsearchby7">
+          </button>
+          <span>Boat Rentals</span>
+        </ion-col>
+        <ion-col>
+          
+            <button ion-button class="btnsearchby8">
+            </button>
+            <span>Golfing</span>
+        </ion-col>
+        <ion-col>
+          <button ion-button class="btnsearchby9">
+          </button>
+          <span style="display: inline-flex;">RV Friendly<br>Composites</span>
+        </ion-col>
+      </ion-row>
+      
+    </ion-grid>
+  </div>
+  <div style="text-align: center; padding-top: 20px; padding-bottom: 10px;"><h1>On-Site Amenities</h1></div>
+  <div class="scrolling-wrapper">
+    <ion-grid style="width: 500px;">
+      <ion-row>
+        <ion-col>
+          <button ion-button class="btnamenities1">
+            Boat Ramps
+          </button>
+          
+        </ion-col>
+        <ion-col>
+          
+            <button ion-button class="btnamenities2">
+              Laundry
+            </button>
+            
+        </ion-col>
+        <ion-col>
+          <button ion-button class="btnamenities3">
+              Museums
+          </button>
+          
+        </ion-col>
+      </ion-row>
+
+      
+      
+    </ion-grid>
+  </div>
+  <div style="text-align: center;"><button ion-button class="btndonate"></button></div>
+
+
+</div>
+</ion-content>

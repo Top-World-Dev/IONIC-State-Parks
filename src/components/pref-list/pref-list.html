@@ -1,0 +1,15 @@
+<!-- Generated template for the PrefListComponent component -->
+<div>
+  <div class="header">
+    <h2 class="list-header">{{title}}</h2>
+    <p class="list-sub-header">{{subTitle}}</p>
+  </div>
+  <ion-grid no-padding>
+    <ion-row>
+      <ion-col no-padding col-6 *ngFor="let item of items">
+        <pref-item [item]="item" ></pref-item>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+  <!-- <hr style="margin-top:30px;"> -->
+</div>

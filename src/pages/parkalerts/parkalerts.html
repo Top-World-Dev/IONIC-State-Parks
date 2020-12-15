@@ -1,0 +1,47 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title></ion-title>
+  </ion-navbar>
+</ion-header>
+<!-- <div *ngIf="!quizPending"  text-center class="suggestion-container" id="suggestion_container">
+    <button ion-button color="light" fill="solid" outline round class="btn-suggestion">Suggestion Feed</button>  
+</div> -->
+<!-- <div *ngIf="!quizPending" class="message" id="profile_message" type="overlay">
+  <div text-center><img class="icon-a-c" src="assets/img/icon_pg_3.png" /></div>
+  <h1>Success!</h1>
+  <p>Awesome, your fashion profile<br />is all setup and your first fashion<br /> recommendations are ready for<br/>you to view!</p>
+  <button ion-button color="light" fill="solid" outline round class="btn-okay" (click)="Okay()">Okay</button>
+</div> -->
+<ion-content class="ion-content-below-my-title">
+  <div class="toppart">
+    <div class="topdiv">
+      <img src="assets/img/backarrow.png" class="topbackbutton" (click)="back()" />
+      <h1 class="topheading">Alerts</h1>
+      <h3 class="topfilter"></h3>
+    </div>
+    
+  </div>
+  <div class="midbuttons" *ngIf="LoadingView==true">
+    <!-- {{parksData[0].imageURL}} -->
+      
+        <div class="alertcontainer" *ngFor="let alert of park.park_alerts">
+          <div class="bell">&nbsp;</div>
+          <div class="event">
+          <h3>{{alert.title}}</h3>
+
+            <div class=summary innerHTML={{alert.alert_content}}>
+            
+              
+
+            </div>
+          </div>
+        </div>
+      
+    
+    <!-- <ion-grid class="parks-grid">
+      <ion-row>
+        
+      </ion-row>
+    </ion-grid> -->
+  </div>
+</ion-content>

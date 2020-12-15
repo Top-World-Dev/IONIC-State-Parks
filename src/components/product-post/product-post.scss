@@ -1,0 +1,139 @@
+product-post {
+
+  .prod-post{
+    margin: 2px;
+  }
+  .saved-div {
+    // display: flex;
+    // justify-content: flex-end;
+    float: right;
+  }
+  .saved-label {
+    float: right;
+    border-radius: 30px;
+    width: 44%;
+    border: 1px solid #e4e4e4;
+    font-size: 9px;
+    color: black;
+    font-weight: bold;
+    margin-top: 3px;
+    margin-bottom: 3px;
+  }
+  .prod-price {
+    margin-top: 18px !important;
+    margin-left: 3px;
+    margin-bottom: 0px;
+    font-size: 10px;
+  }
+  .prod-brand {
+    margin-left: 3px;
+    /* padding-top: 10px;
+    margin-top: -15px !important; */
+    margin-bottom: 5px;
+    margin-top: 2px;
+    /* height: 36px; */
+    overflow: hidden;
+    white-space: nowrap;
+    font-size: 10px !important;
+    text-transform: uppercase;
+  }
+  .prod-title{
+    margin-left: 3px;
+    margin-top: 5px !important;
+    //margin-bottom: -15px;
+    height: 18px;
+    font-size: 10px !important;
+   }
+  .prod-store{
+    margin-top: -20px !important;
+    font-size: 10px !important;
+  }
+
+  .container {
+    position: relative;
+    text-align: center;
+    color: white;
+    height: 150px;
+    padding: 2px;
+  }
+  .bottom {
+    background-color: black;
+    color: white;
+    position: absolute;
+    bottom: 2px;
+    left: 2px;
+    right: 2px;
+    // width: 100%;
+    font-size: 12px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+  }
+
+  .on-sale{
+    /* background-color: red;
+    color: white;
+    position: absolute;
+    bottom: 20px;
+    left: 2px;
+    right: 2px;
+    font-size: 12px;
+    padding-top: 2px;
+    padding-bottom: 2px; */
+    color: #01A5FF;
+    font-weight: bold;
+    font-size: 10px;
+    height: 16px;
+    margin-left: 3px;
+  }
+  .look-name{
+    font-size: 10px !important;
+    font-weight: bold;
+    font-style: italic;
+    color: #898A99;
+    height: 50px;
+    margin-left: 3px;
+  }
+  .product-bookmark{
+    position: absolute;
+    top: 5px;
+    right: 0px;
+    color: black;
+  }
+
+  .discount-price{
+    color: grey;
+    text-decoration: line-through;
+
+  }
+
+  .img {
+    position: relative;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .prod-not-available {
+    color: #bfbfbf;
+    font-size: 14px;
+    font-weight: bold;
+  }
+
+  .heartleft {
+    position: absolute;
+    top: 2%;
+    left: 3%;
+    z-index: 1;
+    height: 5%;
+  }
+
+  .heartright {
+    position: absolute;
+    top: 2%;
+    right: 3%;
+    z-index: 2;
+    height: 5%;
+  }
+
+}

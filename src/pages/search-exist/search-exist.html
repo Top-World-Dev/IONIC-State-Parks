@@ -1,0 +1,20 @@
+<ion-content padding>
+
+  <div text-center padding>
+    <h3 class="p-title"><b>OOPS!</b></h3>
+    <p>Looks Like you already have a saved search for this product</p>
+    <div class="container">
+      <img class="subproduct-image" [src]="subproduct.ImageUrl" />
+      <div class="middle" text-center>{{subproduct.Name}}</div>
+    </div>
+
+    <div class="confirm-title">
+      <button ion-button icon-left clear color="dark" (click)="goBack()">
+        <ion-icon name="md-arrow-back"></ion-icon>
+         Go Back &nbsp;
+      </button>
+    </div>
+
+  </div>
+
+</ion-content>

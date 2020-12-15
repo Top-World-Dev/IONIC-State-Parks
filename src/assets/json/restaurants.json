@@ -1,0 +1,132 @@
+
+
+
+
+	
+	
+	{
+		"restaurants": [
+	
+					{
+						"title": "Crockett's Mill Restaurant",
+						"url_title": "crocketts-mill-restaurant-david-crockett",
+						"restaurant_description": "<p>A relaxed atmosphere and home-style cooking keep diners coming back for favorites like Backwoods Chicken, Bulls-eye Pasta, and Pan-seared Rib-eye. Menus and specials are posted here and on <a href=\"https://www.facebook.com/DavidCrockettStatePark/\">David Crockett State Park's Facebook page</a>. You can round out your meal with a glass of wine or cocktail. Outdoor seating on the patio is perfect for warmer weather. The patio seats 20-25 guests and features items from the menu. </p><h5>FAMILY-STLE BREAKFAST $9.95</h5><p>Friday Saturday and Sunday: Serving 8 AM to 10 AM. All You Care To Eat&mdash;Brought To Your Table. Fill up with a true Southern family breakfast. Perfect before hitting the trail. Everything is passed around the table just like you used to do at home. Only this time, no cooking and no clean-up. Want more? Just ask. Biscuits, White Gravy, Homemade Muffins, French Toast Sticks, Jelly, Butter and Syrup, Scrambled Eggs, Bacon, Sausage Baked Apples, Potato Casserole, Grits.</p><h5>PICNIC FAMILY PACKS</h5><p>What better way to spend the day than a picnic in the park! These family-sized meals include two entrees, two sides, rolls, and two desserts. Call your order in and pick it up curbside! </p><h5>DOG-FRIENDLY SEATING</h5><p>For guests accompanied by their canine friends, we have a dog-friendly seating area outside. This seating area is limited to items ordered from the menu. </p><h5>EVENTS AND CATERING</h5><p>Reservations may be taken for wedding receptions, family reunions, class reunions, business meetings, luncheons, and other events. Catering is available on-site. </p>",
+						"restaurant_hours": "<p><b>TEMPORARILY CLOSED</b></p>",
+						"restaurant_park_name": "David Crockett",
+					
+						"restaurant_menu_grid": [{
+							"menu_title": "Banquet Guide",
+							"menu_file": "https://tnstateparks.com/assets/pdf/additional-content/david-crockett_banq-guide2019.pdf"
+						},{
+							"menu_title": "Drink Menu",
+							"menu_file": "https://tnstateparks.com/assets/pdf/additional-content/david-crockett_drink-menu_summer2020.pdf"
+						},{
+							"menu_title": "Menu",
+							"menu_file": "https://tnstateparks.com/assets/pdf/additional-content/david-crockett_menu7-10-2020.pdf"
+						},{
+							"menu_title": "Family-Style Breakfast",
+							"menu_file": "https://tnstateparks.com/assets/pdf/additional-content/david-crockett_familybreakfast.pdf"
+						}]
+				
+					},
+	
+	
+	
+					{
+						"title": "Homestead Harvest Restaurant",
+						"url_title": "cumberland-mountain-restaurant",
+						"restaurant_description": "<p>ABOUT US</p><p>Located on scenic Byrd Lake, the Homestead Harvest Restaurant serves a variety of family favorites. Whether stopping in for a cold beverage after a hike or something more substantial we hope to see you soon. Due to COVID-19, the restaurant at Cumberland Mountain is open with limited seating.</p><p> </p><hr />",
+						"restaurant_hours": "<p>Sunday<br />&#8212;11 am to 2:30 pm<br />Monday & Tuesday<br />&#8212;Closed<br />Wednesday - Saturday<br />&#8212;11 a.m. to 2:30 p.m.<br />&#8212;4 p.m. to 8:00 p.m.</p><h4>LOCATION AND CONTACT</h4><p>Homestead Harvest Restaurant<br />24 Office Dr.<br />Crossville, TN 38555<br />931-484-7186</p>",
+						"restaurant_park_name": "Cumberland Mountain",
+					
+						"restaurant_menu_grid": [{
+							"menu_title": "MENU",
+							"menu_file": ""
+						}]
+				
+					},
+	
+	
+	
+					{
+						"title": "Marker 66 Marina & Grille",
+						"url_title": "marker-66-marina-grille",
+						"restaurant_description": "<p>Marker 66 at the Paris Landing Marina is open. We have a special takeout menu and are open from 11:00 a.m. to 7:30 p.m. for curbside pickup on Thursday, Friday, Saturday, and Sunday. View <a href=\"https://tnstateparks.com/assets/pdf/additional-content/TO_GO_MENU.pdf\">the menu</a> and make your next meal a little easier. To place your to-go order, simply call the restaurant at 731 641 4474,</p><p>Located at the marina at Paris Landing State Park, Marker 66 Marina & Grille offers lunch and dinner on the water! This full-service restaurant and bar has one of the best views on Kentucky Lake. Our menu favorites include various taco options, fried green tomatoes, crab cakes, and much more! Stop by and join us soon!</p><p>Follow our <a href=\"https://www.facebook.com/marker66marinagrille/\">Facebook page</a> for updates.</p>",
+						"restaurant_hours": "<ul><li>Monday: CLOSED</li><li>Tuesday: CLOSED</li><li>Wednesday: CLOSED</li><li>Thursday: 11:00-8:00</li><li>Friday: 11:00-9:00</li><li>Saturday: 11:00-9:00</li><li>Sunday: 11:00-8:00</li></ul>",
+						"restaurant_park_name": "Paris Landing State Park",
+					
+						"restaurant_menu_grid": [{
+							"menu_title": "Menu",
+							"menu_file": "https://tnstateparks.com/assets/pdf/additional-content/Marker66_menu_05_2020.pdf"
+						},{
+							"menu_title": "To Go Menu",
+							"menu_file": "https://tnstateparks.com/assets/pdf/additional-content/TO_GO_MENU.pdf"
+						}]
+				
+					},
+	
+	
+	
+					{
+						"title": "The Captain's Galley Restaurant and Catering",
+						"url_title": "pickwick-landing-restaurant",
+						"restaurant_description": "<p style=\"color:red\"><strong>NOTICE: The restaurant is closed for renovations. We anticipate opening in Spring 2020. Thank you for your patience while we make these improvements.</strong></p>",
+						"restaurant_hours": "<p>Closed for Renovation</p><p>Anticipated Opening: Spring 2020</p>",
+						"restaurant_park_name": "Pickwick Landing",
+					
+						"restaurant_menu_grid": null
+				
+					},
+	
+	
+	
+					{
+						"title": "The Forge Restaurant and Catering",
+						"url_title": "the-forge-restaurant-montgomery-bell",
+						"restaurant_description": "<p style=\"color:#EC2B04\"><span style=\"font-size: 15px; line-height: 1.6;\">NOTICE: The restaurant is closed for renovations. We anticipate opening in Spring 2020. Thank you for your patience while we make these improvements.</span></p>",
+						"restaurant_hours": "<p><!--<h5>Open Daily</h5><p>Daily Breakfast: 7:00 AM to 10:00 AM<br />Daily Lunch: 11:00 AM<br />Dinner Mon.-Thur.:5:00 PM to 8:00<br />Dinner Fri. & Sat.:5:00 PM to 8:00 PM<br />Sunday: 11:00 AM to 3:00 PM</p><p>Starting June 14, we will be open until 9:00 PM on Friday and Saturday.</p><h4>RESTAURANT CONTACT</h4><p>800-250-8613 (24 hours)<br />615-797-3101</p><h4>RESTAURANT ADDRESS</h4><p>The Forge Restaurant<br />1000 Hotel Avenue Burns, TN 37029</p>-->Closed for Renovation</p><p>Anticipated Opening: Spring 2020</p>",
+						"restaurant_park_name": "Montgomery Bell",
+					
+						"restaurant_menu_grid": null
+				
+					},
+	
+	
+	
+					{
+						"title": "The Governor's Table Restaurant and Catering",
+						"url_title": "henry-horton-restaurant",
+						"restaurant_description": "<h4>Governor's Table Restaurant</h4><p>We are open for lunch on Friday, Saturday, and Sunday. Please join us!</p><p>Also, a revised snack menu is on our <a href=\"https://www.facebook.com/HenryHortonStateParkOfficial/\">Facebook page</a>. Food from the snack menu can be purchased at the Snack Shack or the newly renovated Camp Store. If you have any questions, please give us a call at 931 364 8205.</p><h4>Governor's Table Restaurant</h4><p>During the week, diners may select items from our new menu, which includes healthier options and uses fresh herbs and produce grown in our gardens. Domestic and imported beers are available, as well as Tennessee State Park Beer. </p><h4>The Tipped Canoe</h4><p>Whether coming in after an afternoon trail hike or stopping in for a light bite after work, the lounge is a great place to relax with friends and family. The hours of operation are the same as the restaurant.</p><h4>Catering</h4><p>Did you know we cater for any occasion or event? The restaurant seats up to 255 people and includes two private dining areas. Groups may contract a full breakfast during the week with prior arrangements. Also, our full-service bakery offers made to order pies, cakes, cheesecakes, and cakes for special occasions. For more information and menu planning, please call 931-364-8207.</p><h4>Eat REAL</h4><p>The Governor's Table Restaurant is the first state park restaurant in the country to achieve Eat REAL certification for sustainable and healthy food service. Eat Real is a nationally recognized standard for foodservice operations that focuses on nutrition and sustainability. Read the <a href=\"https://tnstateparks.com/blog/henry-horton-state-park-garners-more-recognition\">press release</a> and watch the video.</p><p><iframe allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/So1aYsVx8H8\" width=\"560\"></iframe></p>",
+						"restaurant_hours": "<ul><li>Friday: 11am-2pm</li><li>Saturday: 8am-2pm</li><li>Sunday: 8am-2pm</li></ul><hr /><h4>LOCATION & CONTACT</h4><p>Governor's Table Restaurant<br />4205 Nashville HWY<br />Chapel Hill, TN 37034<br />931-364-8205</p>",
+						"restaurant_park_name": "Henry Horton",
+					
+						"restaurant_menu_grid": [{
+							"menu_title": "Catering/Banquet Guide",
+							"menu_file": ""
+						},{
+							"menu_title": "Menu",
+							"menu_file": "https://tnstateparks.com/assets/pdf/additional-content/henry-horton_menu__5-15-20.pdf"
+						}]
+				
+					},
+	
+	
+	
+					{
+						"title": "The Western Spur Restaurant",
+						"url_title": "natchez-trace-restaurant",
+						"restaurant_description": "<p>The Western Spur at Pin Oak Lodge is a great place to reunite with friends and family over a meal, but currently, the dining room is closed. The restaurant seats 150 people and serves southern-style buffet cuisine</p><p>Guests may order off the menu or order a Family Pack to take out to eat in the park or eat at home.</p><p>We now offer a selection of wines by the glass or bottle, domestic and imported beer, and mixed drinks, perfect for complimenting your meal or relaxing.</p><h4><strong>Catering</strong></h4><p>Box lunches and catering are available for breaks, banquets, and cookouts throughout the park. Groups may contract a full breakfast with prior arrangements. For more info, please call the restaurant at 731-968-8176.</p><p><a href=\"http://tnstateparks.com/assets/pdf/additional-content/natchez-trace_catering-event-guide.pdf\">View Catering and Banquet Guide</a></p>",
+						"restaurant_hours": "<ul><li>Monday thru Thursday: Closed</li><li>Friday & Saturday: 11 AM to 7 PM</li><li>Sunday: 11 AM to 2 PM</li></ul>",
+						"restaurant_park_name": "Natchez Trace",
+					
+						"restaurant_menu_grid": [{
+							"menu_title": "À la carte Menu",
+							"menu_file": "https://tnstateparks.com/assets/pdf/additional-content/natchez-trace_menu.pdf"
+						}]
+				
+					}
+	
+				]
+	}
+	
+	

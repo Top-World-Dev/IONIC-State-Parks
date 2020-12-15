@@ -1,0 +1,31 @@
+<ion-header>
+  <ion-navbar hideBackButton>
+    <ion-buttons end>
+      <button (click)="toggleMenu()" class="dots" end ion-button icon-only>
+        <ion-icon name="menu"></ion-icon>
+      </button>
+      
+    </ion-buttons>
+    <button class="btns">
+      <img class="logo" src="assets/img/tsp_logo_White.png" />
+      <img style="position: absolute; padding-top: 7px; right: 3vw;" src="assets/img/inboxwt.png" (click)="showwalkthru()" />
+      
+    </button>
+    
+  </ion-navbar>
+</ion-header>
+
+<!-- <ion-tabs id="mainTabs" tabsPlacement="bottom" selectedTabIndex="1" badgeColor="dark" indicatorColor="light"> -->
+
+<!-- <ion-tab class="tab-icon" [root]="inboxRoot" tabIcon="categories" ></ion-tab> -->
+<!-- <super-tab class="tab-icon" [root]="inboxRoot" icon="ios-home"></super-tab> -->
+<!-- <super-tab [root]="searchRoot" icon="home" ></super-tab> -->
+<!-- <ion-tab class="tab-icon" [root]="savedPostsRoot" tabIcon="hot" ></ion-tab> -->
+<!-- <super-tab class="tab-icon" [root]="savedPostsRoot"  icon="heart-outline"></super-tab> -->
+<!-- <super-tab [root]="savedPosts" icon="ios-bookmark"></super-tab> -->
+<!-- <ion-tab class="tab-icon" [root]="accountRoot" tabIcon="home" ></ion-tab> -->
+<!-- <super-tab class="tab-icon" [root]="accountRoot" icon="person"></super-tab> -->
+
+<!-- </ion-tabs> -->
+
+<ion-nav #innerNav [root]="inboxRoot"></ion-nav>

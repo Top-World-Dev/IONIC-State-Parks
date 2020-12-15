@@ -1,0 +1,18 @@
+<ion-header class="post-header">
+  <ion-navbar>
+    <ion-title>Edit Profile</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding text-center>
+
+  <ion-item>
+    <ion-input type="text" [(ngModel)]="account.Name" placeholder="Name"></ion-input>
+  </ion-item>
+</ion-content>
+
+<ion-footer no-border>
+  <ion-toolbar>
+    <button class="my-btn" ion-button color="dark" block clear (click)="save()">Save</button>
+  </ion-toolbar>
+</ion-footer>

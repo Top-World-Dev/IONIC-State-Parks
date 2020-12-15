@@ -1,0 +1,41 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>Search For ...</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+
+  <div text-center>
+    <ion-spinner class="loading" name="dots"></ion-spinner>
+    <h5>Searching For matching products</h5>
+
+    <div class="tip-cls">
+      <h6>TIP</h6>
+      <p>
+        Try filtering your search for more accurate results by chosing colors, price range, looks and stores!
+      </p>
+    </div>
+
+    <div>
+      <button class="next-btn" ion-button icon-right color="light" round (click)="filterMore()">
+        Further Filter Search &nbsp; &nbsp; &nbsp; &nbsp;
+        <ion-icon name="md-arrow-forward"></ion-icon>
+      </button>
+    </div>
+
+    <div>
+      <button class="next-btn" ion-button icon-right outline round color="dark" (click)="continuWithoutFilter()">
+        Continue Without filtering
+        <ion-icon name="md-arrow-forward"></ion-icon>
+      </button>
+    </div>
+
+
+  </div>
+
+
+</ion-content>

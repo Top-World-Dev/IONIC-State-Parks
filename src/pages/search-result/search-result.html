@@ -1,0 +1,79 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Search Results</ion-title>
+  </ion-navbar>
+</ion-header>
+
+
+<ion-content padding>
+
+  <div text-center>
+    <img class="round-image image" [src]="search.SubProductTags[0]?.SubProduct.ImageUrl">
+    <h4>{{search.SubProductTags[0]?.SubProduct.Name}}</h4>
+  </div>
+
+  <div>
+    <span class="tag" *ngFor="let subProductTag of search.SubProductTags">{{subProductTag.SubProduct.Name}}</span>
+    <span class="tag" *ngFor="let colorTag of search.ColorTags">{{colorTag.Color.Name}}</span>
+    <span class="tag" *ngFor="let lookTag of search.LookTagss">{{lookTag.Look.Name}}</span>
+  </div>
+
+  <div class="price-range">
+    <ion-grid>
+      <ion-row>
+        <ion-col col-4>
+          <h5>Price Range: </h5>
+        </ion-col>
+        <ion-col col-4>
+          AED {{search.PriceFrom}} - {{search.PriceTo}}
+        </ion-col>
+        <ion-col>
+          <a class="options" (click)="editSearch()">
+            <ion-icon name="md-create"></ion-icon>
+          </a>
+        </ion-col>
+        <ion-col>
+          <a class="options" (click)="deleteSearch()">
+            <ion-icon name="ios-trash-outline"></ion-icon>
+          </a>
+        </ion-col>
+        <ion-col *ngIf="isNewSearch">
+          <a class="options" (click)="saveSearch()">
+            <ion-icon name="bookmark"></ion-icon>
+          </a>
+        </ion-col>
+        <ion-col >
+          <a class="options" *ngIf="!search.NotificationsEnabled" (click)="enableNotifications(true)">
+            <ion-icon name="notifications"></ion-icon>
+          </a>
+          <a class="options" *ngIf="search.NotificationsEnabled" (click)="enableNotifications(false)">
+            <ion-icon name="notifications-off"></ion-icon>
+          </a>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+  </div>
+
+  <div>
+    <h4>Matches ({{productPosts.length}})</h4>
+
+  </div>
+
+  <div>
+    <ion-grid>
+      <ion-row>
+        <ion-col col-4 *ngFor="let productPost of productPosts">
+          <div text-center (click)="productPostDetails(productPost)">
+            <img class="prod-img" [src]="productPost.ProductPostImages[0]?.ImageUrl" />
+            <p class="prod-price">AED {{productPost.Price}}</p>
+            <p class="product-details">({{productPost.Title}})</p>
+            <p class="product-details">{{productPost.Product.Name}}</p>
+            <h6 class="product-store">{{productPost.Store.Name}}</h6>
+          </div>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+  </div>
+
+
+</ion-content>

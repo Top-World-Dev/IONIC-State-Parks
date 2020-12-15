@@ -1,0 +1,83 @@
+page-register-name {
+
+  .title{
+    font-size: 16px;
+    margin-bottom: 30px;
+  }
+  .titlebig{
+    margin-top: 50px;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  .text-input-md {
+    margin: 0px 0px;
+  }
+  item-inner {
+    padding-right: 0px;
+  }
+
+  .name-item {
+    width: 100% !important;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .next-btn{
+    margin-top: 30px;
+    text-transform: none;
+  }
+
+  .input-wrapper {
+    display: inline-block;
+  }
+
+  ion-header {
+    background-color: #002B49;
+    height: 8vh;
+    display: inline-flex;
+    h4 {
+      color:white;
+      font-size: 1.5rem;
+      margin-right: 3vw;
+    }
+  }
+
+  .toolbar-title-md {
+    font-size: 2rem;
+    font-weight: 500;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 3vh;
+  }
+
+  .register-back-btn {
+    margin-top: 2vh;
+    font-size: 25px;
+    color: white;
+    margin-left: 3vw;
+  }
+
+  .bottom-button-gray {
+    margin-left: 3vw;
+    background-color: dimgray;
+    color: white;
+    height: 7vh !important;
+    border-radius: 5px;
+    width: 80vw;
+    position: absolute;
+    bottom: 4vh;
+  }
+
+  .bottom-button-green {
+    margin-left: 3vw;
+    background-color: #547E2A;
+    color: white;
+    height: 7vh !important;
+    border-radius: 5px;
+    width: 80vw;
+    position: absolute;
+    bottom: 4vh;
+  }
+
+}

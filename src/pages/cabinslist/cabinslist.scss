@@ -1,0 +1,706 @@
+page-cabinslist {
+  .message{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: #ffffffe6;
+    z-index: 9999;
+    text-align: center;
+    .icon-a-c{
+      width: 85px;
+      margin-top: 50px;
+    }
+    h1{
+      color: #535456;
+      font-size: 22px;
+      font-weight: bold;
+    }
+    p{
+      margin-top: 20px;
+      color: #4F4F52;
+      font-size: 13px;
+      font-weight: bold;
+    }
+    .btn-okay{
+      color: #000000;
+      margin-top: 30%;
+      text-transform: none!important;
+      background: white;
+      border:0px!important;
+      box-shadow: 1px 1px 10px 5px #F0F0F0;
+    }
+  }
+  ion-grid{
+    #overlay_header{
+      height: 58px;
+      .login-logo{
+        width: 15px;
+      }
+      .s-img{
+        width: 28px;
+      }
+    }
+  }
+  .get-started{
+    position: relative;
+    background-color: #ffffff;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    height: 200px;
+    border-radius: 10px;
+    // color: white;
+    box-shadow: 0px 0px 15px -3px rgba(0, 0, 0, 0.3);
+    .background {
+      top: 18%;
+      left: 40%;
+      width: 20%;
+      height: 20%;
+      position: absolute;
+    }
+    h1 {
+      position: absolute;
+      top: 35%;
+      width: 60%;
+      left: 20%;
+      font-size: 16px;
+    }
+    p {
+      position: absolute;
+      top: 55%;
+      font-size: 12px;
+      color: gray;
+      width: 70%;
+      left: 15%;
+      text-align: center;
+      a {
+        color: black;
+        text-decoration: underline;
+      }
+    }
+    .arrow-img {
+      position: absolute;
+      font-size: 16px;
+      bottom: 44px;
+      right: 35px;
+      width: 20px;
+      height: 20px;
+    }
+  }
+
+  .nl-time{
+    margin-left: 12px;
+    font-size: 12px;
+    color: #adadad;
+  }
+
+  .seen-newsletter {
+    background: whitesmoke;
+  }
+
+  .newsletter-card{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 5%;
+    width: 90% !important;
+    border-radius: 4px;
+    box-shadow: 0px 0px 15px -3px rgba(0, 0, 0, 0.3);
+  }
+
+  .new-label {
+    color: #990000;
+    margin-left: 2px;
+    font-size: 12px;
+  }
+
+  .end-feed{
+    color: #747474;
+    margin-top: 50px;
+  }
+
+  .post-label{
+    color: #474747;
+    font-size: 12px;
+    margin-top: 2px;
+    line-height: 12px;
+    margin-left: 10px ;
+  }
+
+  .images-grid{
+    margin-top: 15px;
+  }
+
+  .nl-img {
+    height: 70px;
+    object-fit: cover;
+  }
+
+  .big-im {
+    height: 170px;
+  }
+
+  .more-text{
+    margin-top: 20px;
+    color: #5284cb;
+    font-weight: bold;
+  }
+
+  .view-btn{
+    float: right;
+    // border: 1px solid #d7d7d7;
+    text-transform: none;
+  }
+
+  .end-feed-txt{
+    font-size: 11px;
+  }
+
+  .newsletter-list{
+    height:  94%;
+    //margin-top: 15px;
+  }
+
+  .scroll-content {
+    margin-bottom: 0 !important;
+  }
+
+
+  .sug-feed-txt {
+    margin-left: 5%;
+    font-weight: 600;
+    font-size: 15px;
+    height: 5%;
+    margin-top: 50px;
+  }
+
+
+  // $content_margin_top: 30px;
+
+  // .fixed-title{
+  //   margin-top:43px;
+  //   /*
+  //    The ionic header bar is 43px in height,
+  //    put your content below the header bar.
+  //   */
+  // }
+
+  // .platform-webview.platform-ios.platform-cordova .fixed-header{
+  //   margin-top:63px;
+  //   /* On iOS, moving a div out of ion-content,
+  //   I think you need to compensation for the 20px system status bar.
+  //   so it's 43px+20px=63px. but I'm not so sure, it hasn't been tested.
+  //   Test it yourself and make modifications if needed.
+  //   */
+  // }
+
+  // .my-title
+  // {
+  //   height: $content_margin_top;
+  //   width: 100%;
+  //   position: absolute;
+  //   padding: 20px;
+  //   z-index: 1;
+  // }
+
+  // .ion-content-below-my-title{
+  //   margin-top: $content_margin_top!important;
+  // }
+
+  // .platform-webview.platform-ios.platform-cordova .ion-content-below-my-title{
+  //   margin-top: $content_margin_top;
+  // }
+
+  .suggestion-container{
+    position: fixed;
+    top: 65px;
+    z-index: 9999;
+    text-align: center;
+    width: 100%;
+  }
+  .btn-suggestion{
+    text-transform: none;
+    color: #9B9C9E;
+    font-size: 12px;
+    height: 25px;
+    width: 115px;
+    font-weight: normal;
+    border: none;
+    background-color: #FFFFFF;
+    box-shadow: 1px 1px 10px 5px #F0F0F0;
+  }
+  .top-space{
+    height: 58px;
+  }
+  
+ /*.ion-content-below-my-title{
+    top: 65px !important;
+  }*/
+
+  .label-md {
+    margin: 0px 8px 13px 25px;
+    color:white;
+  }
+
+  .compassicon
+  {
+      z-index: 100;
+      padding-left: 19px;
+      color: white;
+      margin-top: 0.4vh;
+  }
+
+  ion-label {
+    margin: 0;
+    display: block;
+    overflow: hidden;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    font-size: 1.75rem;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  ion-input, ion-textarea {
+    margin: 15px;
+    border: solid 1px silver;
+    width: 93%;
+  }
+
+  .btn {
+    text-transform: none!important;
+    margin-left: 10px;
+    border:0px!important;
+    color: white;
+    background-color: #E40909;
+    box-shadow: 1px 1px 10px 5px #F0F0F0;
+    border-radius: 17px;
+  }
+
+  .btn-reset {
+    text-transform: none!important;
+    margin-left: 10px;
+    border:0px!important;
+    color: white;
+    background-color: orangered;
+    box-shadow: 1px 1px 10px 5px #F0F0F0;
+    border-radius: 17px;
+  }
+
+  .toppart {
+    background-color: #2C6693;
+    height: 55px;
+    background-size: cover;
+
+  }
+
+  .topheading {
+      margin-top: 0px;
+      padding-top: 2vh;
+      color: white;
+      font-size: 2rem;
+      text-align: center;
+      font-family: serif;
+      margin-bottom: 3vh;
+      margin-left: 40vw;
+  }
+
+  .searchinput {
+      background-color: white;
+      border:none;
+  
+    }
+
+    .item-md {
+      background-color: transparent !important;
+   
+    }
+
+    .list-md .item-input:last-child {
+      border-bottom: none !important;
+    }
+
+    .searchicon{
+      z-index: 100;
+      padding-left: 19px;
+      color: gray;
+    }
+
+    .item-md ion-icon[item-left] + .item-inner, .item-md ion-icon[item-left] + .item-input, .item-md ion-icon[item-start] + .item-inner, .item-md ion-icon[item-start] + .item-input {
+      margin-left: -10vw;
+    }
+
+    ::-webkit-input-placeholder { /* Edge */
+      color: red;
+    }
+    
+    :-ms-input-placeholder { /* Internet Explorer */
+      color: red;
+    }
+    
+    ::placeholder {
+      color: red;
+    }
+
+    .input-wrapper {
+      background-color: white;
+      border-radius: 51px;
+    }
+
+    .text-input-md {
+      margin: 13px 42px;
+    }
+
+    .list-md > .item-block:last-child ion-label, .list-md > .item-block:last-child .item-inner, .list-md > .item-wrapper:last-child ion-label, .list-md > .item-wrapper:last-child .item-inner {
+      height: 51px;
+    }
+
+    .btnparkmap {
+      background-image: url('../assets/img/parkmap.png');
+      width:100px;
+      height: 100px;
+      background-color: white;
+    }
+
+    .btnevents {
+      background-image: url('../assets/img/events.png');
+      width:100px;
+      height: 100px;
+      background-color: white;
+    }
+
+    .btnparklist {
+      background-image: url('../assets/img/parklist.png');
+      width:100px;
+      height: 100px;
+      background-color: white;
+    }
+
+    .btnovernightstays {
+      background-image: url('../assets/img/overnightstays.png');
+      width:91vw;
+      height: 81px;
+      background-color: white;
+    }
+
+    .midbuttons {
+      text-align: center;
+      height: 75vh;
+      
+    }
+    .midways {
+      margin-top: 4vh;
+      margin-bottom: 4vh;
+    }
+
+    .grid {
+      padding: 0px;
+    }
+
+    .btnfpocard1 {
+      background-image: url('../assets/img/fpo_card1.png');
+      width:100px;
+      height: 101px;
+      background-color: white;
+    }
+
+    .btnfpocard2 {
+      background-image: url('../assets/img/fpo_card2.png');
+      width:100px;
+      height: 101px;
+      background-color: white;
+    }
+
+    .btnfpocard3 {
+      background-image: url('../assets/img/fpo_card3.png');
+      width:100px;
+      height: 101px;
+      background-color: white;
+    }
+
+    .btnsearchby1 {
+      background-image: url('../assets/img/bike-icon-24.png');
+      width:50px;
+      height: 50px;
+      background-color: white;
+      background-repeat: no-repeat;
+      background-position: center;
+      box-shadow: none;
+      -webkit-box-shadow: none;
+    }
+
+    .btnsearchby2 {
+      background-image: url('../assets/img/golfdisc.png');
+      width:50px;
+      height: 50px;
+      background-color: white;
+      background-repeat: no-repeat;
+      background-position: center;
+      box-shadow: none;
+      -webkit-box-shadow: none;
+    }
+
+    .btnsearchby3 {
+      background-image: url('../assets/img/rvplaceholder1.png');
+      width:50px;
+      height: 50px;
+      background-color: white;
+      background-repeat: no-repeat;
+      background-position: center;
+      box-shadow: none;
+      -webkit-box-shadow: none;
+    }
+
+    .btnsearchby4 {
+      background-image: url('../assets/img/birding.png');
+      width:50px;
+      height: 50px;
+      background-color: white;
+      background-repeat: no-repeat;
+      background-position: center;
+      box-shadow: none;
+      -webkit-box-shadow: none;
+    }
+
+    .btnsearchby5 {
+      background-image: url('../assets/img/fishing.png');
+      width:50px;
+      height: 50px;
+      background-color: white;
+      background-repeat: no-repeat;
+      background-position: center;
+      box-shadow: none;
+      -webkit-box-shadow: none;
+    }
+
+    .btnsearchby6 {
+      background-image: url('../assets/img/rvplaceholder1.png');
+      width:50px;
+      height: 50px;
+      background-color: white;
+      background-repeat: no-repeat;
+      background-position: center;
+      box-shadow: none;
+      -webkit-box-shadow: none;
+    }
+
+    .btnsearchby7 {
+      background-image: url('../assets/img/boatramps.png');
+      width:50px;
+      height: 50px;
+      background-color: white;
+      background-repeat: no-repeat;
+      background-position: center;
+      box-shadow: none;
+      -webkit-box-shadow: none;
+    }
+
+    .btnsearchby8 {
+      background-image: url('../assets/img/sports_golf-24px.png');
+      width:50px;
+      height: 50px;
+      background-color: white;
+      background-repeat: no-repeat;
+      background-position: center;
+      box-shadow: none;
+      -webkit-box-shadow: none;
+    }
+
+    .btnsearchby9 {
+      background-image: url('../assets/img/rvplaceholder1.png');
+      width:50px;
+      height: 50px;
+      background-color: white;
+      background-repeat: no-repeat;
+      background-position: center;
+      box-shadow: none;
+      -webkit-box-shadow: none;
+    }
+
+    .scrolling-wrapper {
+      overflow-x: scroll;
+      overflow-y: hidden;
+      white-space: nowrap;
+    
+      .card {
+        display: inline-block;
+      }
+    }
+
+    .btnamenities1 {
+      background-image: url('../assets/img/aminities1.png');
+      width:144px;
+      height: 160px;
+      background-color: white;
+      background-repeat: no-repeat;
+      background-position: top;
+      box-shadow: none;
+      -webkit-box-shadow: none;
+      padding-top: 91px;
+      color: black;
+    }
+
+    .btnamenities2 {
+      background-image: url('../assets/img/aminities2.png');
+      width:144px;
+      height: 160px;
+      background-color: white;
+      background-repeat: no-repeat;
+      background-position: top;
+      box-shadow: none;
+      -webkit-box-shadow: none;
+      padding-top: 91px;
+      color: black;
+    }
+
+    .btnamenities3 {
+      background-image: url('../assets/img/aminities3.png');
+      width:144px;
+      height: 160px;
+      background-color: white;
+      background-repeat: no-repeat;
+      background-position: top;
+      box-shadow: none;
+      -webkit-box-shadow: none;
+      padding-top: 91px;
+      color: black;
+    }
+
+    .btndonate {
+      background-image: url(../assets/img/donate.png);
+      width: 99vw;
+      height: 408px;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-color: black;
+      
+    }
+
+        .map-container {
+          height: 100%;
+        }
+        .Location__title{
+          padding-left: 10px;
+          padding-right: 10px;
+        }
+        #map_canvas {
+         height: 100% !important;
+         width: 100% !important;
+         top: 0;
+         left: 0;
+         position: absolute;
+        }
+
+        .parks-grid{
+          margin-top: 0px;
+          padding: 15px;
+          width: 98%;
+          // border-radius: 4px;
+          // box-shadow: 0px 0px 15px -3px rgba(0, 0, 0, 0.3);
+        }
+
+        .parkimage{
+          // width: 110px;
+          border-radius: 7px;
+          width: 93vw;
+          height: 33vh;
+          border-bottom-right-radius: 0px;
+          border-bottom-left-radius: 0px;
+        }
+
+        .parktitle {
+          font-size: 1.8rem;
+          margin-top: 2.8rem;
+        }
+
+        .parkaddress {
+          font-size: 1.5rem;
+          color: gray;
+          margin-top: -5px;
+        }
+
+        .parksummary {
+          font-size: 1.45rem;
+          color: #bbbaba;
+          // margin-top: -7px;
+          // white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          height: 56px;
+          width: 225px;
+        }
+
+
+        
+
+        .parkdiv {
+          display: block;
+          width: 93vw;
+          background-color: white;
+          border-radius: 10px;
+          height: 48vh;
+          padding: 0px;
+          box-shadow: 0px 0px 15px -3px rgba(0, 0, 0, 0.3);
+          margin-bottom: 12px;
+          margin-top: 12px;
+          // background-image: url(../assets/img/menuarrow.png);
+          background-repeat: no-repeat;
+          background-size: auto;
+          background-position: right;
+          margin-left: 4vw;
+        }
+
+        .parktitlediv {
+          width: 50vw;
+          text-align: left;
+          margin-left: 10px;
+          margin-top: -22px;
+        }
+
+        .topdiv {
+          margin-left: 1vw;
+          margin-right: 1vw;
+          width:100%; 
+          display: inline-flex;
+          text-align: center;
+        }
+
+        .topbackbutton {
+          height: 20px;
+          position: absolute;
+          left: 3vw;
+          top: 2vh;
+          font-size: 1.5rem;
+        }
+
+        .topfilter {
+          position: absolute;
+          right: 3vw;
+          top: 3vh;
+          font-size: 1.5rem;
+          color: whitesmoke;
+        }
+
+        .content-md {
+          background-color: #EDF5FF;
+        }
+
+        .cabinslabels {
+          display: inline-flex;
+          width: 100%;
+          padding: 10px;
+          padding-top: 1vh;
+        }
+      
+        .viewcabin {
+          font-size: 1.5rem;
+          color: black;
+          position: absolute;
+          right: 9vw;
+          margin-top: -0.4rem;
+        }
+      
+}

@@ -1,0 +1,48 @@
+<ion-content text-center class="policy-back">
+
+  <div class="modal-div">
+    <div style="height: 5px;" ></div>
+    <div class="top-holder">
+        <img class="document-img" src="assets/img/document.png" />
+
+        <p padding class="top-txt">
+          We have updated our <span class="bold-header"> terms of use </span> and/or 
+          <span class="bold-header"> privacy policy. </span>
+          To continue using our app please read through and agree to
+          the changes made
+        </p>
+    
+        <button ion-button class="view-btn" color="dark" clear round (click)="viewPolicy()" >View</button>
+    </div>
+
+    <div class="agree-div" >
+
+      <!-- <ion-checkbox color="dark" checked="true"></ion-checkbox>
+      <p>
+        I acknowledge I have read any changes to the
+        term of use and the privacy policy documents
+        and I agree to them as I continue using this app
+      </p> -->
+      <ion-item class="chk-box-item" no-lines>
+        <ion-label text-wrap>
+          <p class="bottom-txt">
+            I acknowledge I have read any changes to the
+            <span class="bottom-txt-span">term of use </span> and the 
+            <span class="bottom-txt-span">privacy policy </span> documents
+            and I agree to them as I continue using this app
+          </p>
+        </ion-label>
+        <ion-checkbox class="chk-box" [(ngModel)]="agreed" ></ion-checkbox>
+      </ion-item>
+
+    </div>
+
+
+    <div class="continue-div" *ngIf="agreed">
+      <p class="agree-txt">Agree and continue</p>
+      <img class="agree-btn" src="assets/img/agree-btn.png" (click)="agree()" />
+    </div>
+
+  </div>
+
+</ion-content>

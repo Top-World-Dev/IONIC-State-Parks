@@ -1,0 +1,50 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title></ion-title>
+  </ion-navbar>
+</ion-header>
+<!-- <div *ngIf="!quizPending"  text-center class="suggestion-container" id="suggestion_container">
+    <button ion-button color="light" fill="solid" outline round class="btn-suggestion">Suggestion Feed</button>  
+</div> -->
+<!-- <div *ngIf="!quizPending" class="message" id="profile_message" type="overlay">
+  <div text-center><img class="icon-a-c" src="assets/img/icon_pg_3.png" /></div>
+  <h1>Success!</h1>
+  <p>Awesome, your fashion profile<br />is all setup and your first fashion<br /> recommendations are ready for<br/>you to view!</p>
+  <button ion-button color="light" fill="solid" outline round class="btn-okay" (click)="Okay()">Okay</button>
+</div> -->
+<ion-content class="ion-content-below-my-title">
+  <div class="toppart">
+    <div class="topdiv">
+      <img src="assets/img/backarrow.png" class="topbackbutton" (click)="back()" />
+      <h1 class="topheading">Park List</h1>
+      <h3 class="topfilter">Filters</h3>
+    </div>
+    <ion-list>
+      <ion-item>
+        <ion-input type="text" placeholder="Where are you exploring? City or Park" class="searchinput"></ion-input>
+        <ion-icon class="searchicon" name="search" item-left></ion-icon>
+        
+      </ion-item>
+      
+    </ion-list>
+    
+  </div>
+  <div class="midbuttons" *ngIf="LoadingView==true">
+    <!-- {{parksData[0].imageURL}} -->
+    <ng-container *ngFor="let park of parksData">
+      <div class="parkdiv" tappable (click)="goToParkDetails(park)">
+        <img src="{{park.hero_image.app}}" class="parkimage">
+        <div class="parktitlediv">
+          <h2 class="parktitle">{{park.title}}</h2>
+          <h3 class="parkaddress">{{park.park_addresses[0].city}} {{park.park_addresses[0].state}}</h3> 
+          <div class="parksummary">{{park.summary}}</div> 
+        </div>
+      </div>
+    </ng-container>
+    <!-- <ion-grid class="parks-grid">
+      <ion-row>
+        
+      </ion-row>
+    </ion-grid> -->
+  </div>
+</ion-content>

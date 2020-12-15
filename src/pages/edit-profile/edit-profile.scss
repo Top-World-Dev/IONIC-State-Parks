@@ -1,0 +1,49 @@
+page-edit-profile {
+    .image {
+        height: 30vw;
+        width: 30vw;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .post-header{
+        ion-title {
+          position: absolute;
+          top: 0;
+          left: 0;
+          padding: 0 90px 1px;
+          width: 100%;
+          height: 100%;
+          text-align: center;
+          z-index: -1;
+        }
+        .toolbar-title {
+          font-weight: bold !important;
+          font-size: 16px;
+          font-weight: 900;
+        }
+      }
+
+      .text-input-md {
+        margin: 13px 0px 0;
+      }
+
+      .item-md {
+        padding-left: 0;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 10px;
+      }
+
+      ion-item {
+        width: 80%;
+      }
+
+      .my-btn {
+        text-transform: none;
+        font-size: 16px;
+        margin-bottom: 30px;
+      }
+
+}

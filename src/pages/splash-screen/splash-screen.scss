@@ -1,0 +1,239 @@
+page-splash-screen {
+
+  .scroll-content {
+    background-image: url('../assets/img/splashscreen.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .splash-logo {
+    position: absolute;
+
+    left: 0;
+    right: 0;
+    top: 43%;
+    bottom: 0;
+
+    margin: 0 auto;
+    width: 150px;
+    //height: 130px;
+
+    opacity: 0;
+    animation: 2s 1s ease fadeInOut;
+    animation-fill-mode: both;
+  }
+
+  .intro-p{
+        left: 0;
+        right: 0;
+        top: 12%;
+        bottom: 50%;
+        margin: 0 auto;
+        text-align: center;
+        margin-top: 10vh;
+
+    span {
+      font-weight: bold;
+    }
+
+  }
+
+
+  $letter_animation_duration: .5s;
+
+  .l1 {
+    opacity: 0;
+    animation:  $letter_animation_duration  3.1s  ease fadeIn;
+    animation-fill-mode: forwards;
+  }
+
+  .l2 {
+    opacity: 0;
+    animation: $letter_animation_duration 3.3s ease fadeIn;
+    animation-fill-mode: forwards;
+  }
+
+  .l3 {
+    opacity: 0;
+    animation: $letter_animation_duration 3.5s ease fadeIn;
+    animation-fill-mode: forwards;
+  }
+  .l4 {
+    opacity: 0;
+    animation: $letter_animation_duration 3.7s ease fadeIn;
+    animation-fill-mode: forwards;
+  }
+  .l5 {
+    opacity: 0;
+    animation: $letter_animation_duration 3.9s ease fadeIn;
+    animation-fill-mode: forwards;
+  }
+  .l6 {
+    opacity: 0;
+    animation: $letter_animation_duration 4.1s ease fadeIn;
+    animation-fill-mode: forwards;
+  }
+  .l7 {
+    opacity: 0;
+    animation: $letter_animation_duration 4.3s ease fadeIn;
+    animation-fill-mode: forwards;
+  }
+  .l8 {
+    opacity: 0;
+    animation: $letter_animation_duration 4.5s ease fadeIn;
+    animation-fill-mode: forwards;
+  }
+  .l9 {
+    opacity: 0;
+    animation: $letter_animation_duration 4.7s ease fadeIn;
+    animation-fill-mode: forwards;
+  }
+  .l10 {
+    opacity: 0;
+    animation: $letter_animation_duration 4.9s ease fadeIn;
+    animation-fill-mode: forwards;
+  }
+  .l11 {
+    opacity: 0;
+    animation: $letter_animation_duration 5.1s ease fadeIn;
+    animation-fill-mode: forwards;
+  }
+  .l12 {
+    opacity: 0;
+    animation: $letter_animation_duration 5.3s ease fadeIn;
+    animation-fill-mode: forwards;
+  }
+  .l13 {
+    opacity: 0;
+    animation: $letter_animation_duration 5.5s ease fadeIn;
+    animation-fill-mode: forwards;
+  }
+  .l14 {
+    opacity: 0;
+    animation: $letter_animation_duration 5.7s ease fadeIn;
+    animation-fill-mode: forwards;
+  }
+  .l15 {
+    opacity: 0;
+    animation: $letter_animation_duration 5.9s ease fadeIn;
+    animation-fill-mode: forwards;
+  }
+  .l16 {
+    opacity: 0;
+    animation: $letter_animation_duration 6.1s ease fadeIn;
+    animation-fill-mode: forwards;
+  }
+  .l17 {
+    opacity: 0;
+    animation: $letter_animation_duration 6.3s ease fadeIn;
+    animation-fill-mode: forwards;
+  }
+  .l18 {
+    opacity: 0;
+    animation: $letter_animation_duration 6.5s ease fadeIn;
+    animation-fill-mode: forwards;
+  }
+  .l19 {
+    opacity: 0;
+    animation: $letter_animation_duration 6.7s ease fadeIn;
+    animation-fill-mode: forwards;
+  }
+  .l20 {
+    opacity: 0;
+    animation: $letter_animation_duration 6.9s ease fadeIn;
+    animation-fill-mode: forwards;
+  }
+
+  #bars {
+    height: 80%;
+
+    .cls-1 {
+      opacity: 0;
+      transform: rotate3d(1, 1, 0, 90deg);
+      animation: 4s .2s ease fadeInAndSpin;
+      animation-fill-mode: both;
+    }
+
+    // .cls-2 {
+    //     opacity: 0;
+    //     transform: rotate3d(1, 1, 0, 50deg);
+    //     animation: 1s 0.4s ease fadeInAndSpin;
+    //     animation-fill-mode: forwards;
+    // }
+
+    // .cls-3 {
+    //     opacity: 0;
+    //     transform: rotate3d(1, 1, 0, 50deg);
+    //     animation: 1s 0.6s ease fadeInAndSpin;
+    //     animation-fill-mode: forwards;
+    // }
+
+    // .cls-4 {
+    //     opacity: 0;
+    //     //transform: rotate3d(1, 1, 0, 50deg);
+    //     animation: 1s 0.8s ease fadeInAndSpin;
+    //     animation-fill-mode: forwards;
+    // }
+
+    .cls-5,
+    .cls-6 {
+      opacity: 0;
+      animation: 2s .5s linear fadeIn;
+      animation-fill-mode: forwards;
+    }
+  }
+
+  @keyframes fadeInAndSpin {
+
+    100% {
+      opacity: 1;
+      transform: rotate3d(1, 1, 0, 0deg);
+    }
+
+  }
+
+  @keyframes fadeIn {
+
+    100% {
+      opacity: 1;
+    }
+
+  }
+
+  @keyframes fadeInOut {
+
+    50%{
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+
+  }
+
+
+  @keyframes fadeOut {
+    100% {
+      opacity: 0;
+    }
+  }
+
+  #footer{
+    color:white;
+    position:absolute;
+    bottom: 5%;
+    text-align: center;
+    width: 100%;
+    margin-left: -4%;
+    #heading1{
+      font-size: 15px;
+    }
+    #heading2{
+      font-size: 13px;
+    }
+    #heading3{
+      font-size: 10px;
+      color:silver;
+    }
+  }
+
+}

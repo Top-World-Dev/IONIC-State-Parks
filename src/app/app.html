@@ -1,0 +1,74 @@
+<ion-menu side="left" [content]="content" type="overlay">
+  <ion-header class="side-menu-header">
+    <ion-toolbar>
+      <!-- <ion-title text-center>Menu</ion-title> -->
+      <div text-center class="side-logo-div">
+        <img class="login-logo" src="assets/img/tsp-logo_color.png" />
+        <img style="float: right; padding-right: 10px; padding-top: 10px;" src="assets/img/menucross.png" (click)="toggleMenu()" />
+      </div>
+    </ion-toolbar>
+  </ion-header>
+
+  <ion-content text-center>
+    <ion-list no-lines class="side-menu-list" id="menu1">
+      <ion-item (click)="testclick()">
+        <ion-label>View Parks on Map</ion-label>
+      </ion-item>
+      <ion-item (click)="testclick()">
+        <ion-label>View List of Parks</ion-label>
+      </ion-item>
+      <ion-item (click)="testclick()">
+        <ion-label>Events</ion-label>
+      </ion-item>
+      <ion-item (click)="testclick()">
+        <ion-label>Overnight Stays</ion-label>
+      </ion-item>
+      <ion-item (click)="testclick()">
+        <ion-label>Profile & Park Passport</ion-label>
+      </ion-item>
+      
+    </ion-list>
+    <div class="menusep">&nbsp;</div>
+    <ion-list no-lines class="side-menu-list" id="menu2" style="height: 80px;">
+      <ion-item (click)="testclick()">
+        <ion-label>Donate to Tennessee State Parks</ion-label>
+      </ion-item>
+      <ion-item (click)="testclick()">
+        <ion-label>Visit TNStateParks.com</ion-label>
+      </ion-item>
+      
+    </ion-list>
+    <div class="menusep">&nbsp;</div>
+    <ion-list no-lines class="side-menu-list" id="menu3" style="height: 80px;">
+      <ion-item (click)="testclick()">
+        <ion-label>Check for Park Alerts</ion-label>
+      </ion-item>
+      <ion-item (click)="testclick()">
+        <ion-label>Park Policies</ion-label>
+      </ion-item>
+      
+    </ion-list>
+    <div class="menusep">&nbsp;</div>
+    <ion-list no-lines class="side-menu-list" id="menu4" style="height: 80px;">
+      <ion-item (click)="testclick()">
+        <ion-label>Legal & Privacy Policy</ion-label>
+      </ion-item>
+      <ion-item (click)="testclick()">
+        <ion-label>Send App Feedback</ion-label>
+      </ion-item>
+      
+    </ion-list>
+
+  </ion-content>
+
+  <ion-footer>
+    <ion-toolbar>
+      <ion-title text-center>
+        <p class="footer-version" >Version 1.0</p>
+      </ion-title>
+    </ion-toolbar>
+  </ion-footer>
+
+</ion-menu>
+
+<ion-nav #content [root]="rootPage"></ion-nav>

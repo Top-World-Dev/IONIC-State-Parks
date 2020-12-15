@@ -1,0 +1,71 @@
+page-search-preferences {
+  ion-grid {
+    height: 100%;
+    justify-content: center;
+    ion-icon {
+      font-size: 120px;
+      color: black;
+    }
+  }
+  .btns {
+    background-color: white;
+  }
+  .logo {
+    margin-left: -15px;
+    margin-top: 5px;
+    width: 120px;
+    background-color: white;
+  }
+  .dots {
+    margin-right: 5px;
+    color: black;
+  }
+  .search-item {
+    .tag {
+      display: inline-block;
+      margin-top: 5px;
+      border: solid gray .5px;
+      padding: 5px 10px 5px 10px;
+      border-radius: 15px;
+    }
+    .image-grid {}
+    .match {
+      padding: 1px;
+      height: 35px;
+    }
+    .price-range {
+      color: gray;
+      font-size: .8em;
+    }
+    .product-logo {
+      border-radius: 50%;
+      width: 150px;
+      height: 150px;
+    }
+  }
+
+  ion-grid {
+    height: 100% !important;
+  }
+  ion-row {
+    height: 20% !important;
+  }
+  .container {
+    position: relative;
+    text-align: center;
+    color: white;
+    height: 100px;
+    padding: 2px;
+  }
+  .bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+  }
+  .img {
+    position: relative;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+  }
+}

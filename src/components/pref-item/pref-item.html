@@ -1,0 +1,5 @@
+<div (click)="itemSelected()" class="container">
+    <img class="img" [src]="item.ImageUrl">
+    <div class="bottom-left">{{item.Name}}</div>
+    <img *ngIf="item.selected" class="selected-img" src="assets/img/selection.png">
+</div>
